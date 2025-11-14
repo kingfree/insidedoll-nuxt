@@ -1,0 +1,29 @@
+---
+title: "Inside Doll"
+source: "intvarc/intvarc_029.html"
+---
+
+[![](../img/insidedoll_title.gif)](../main.html)  
+![](../img/line01.gif)
+
+| **ザ・インタビューズ・アーカイブ** |   
+---|---|---  
+|  |  |    
+| [＜＜](intvarc_031.html) | [[ 30 ]](intvarc_030.html) | [ 29 ] | [[ 28 ]](intvarc_028.html) | [[ 27 ]](intvarc_027.html) | [[ 26 ]](intvarc_026.html) | [[ 25 ]](intvarc_025.html) | [[ 24 ]](intvarc_024.html) | [[ 23 ]](intvarc_023.html) | [[ 22 ]](intvarc_022.html) | [[ 21 ]](intvarc_021.html) | [＞＞](intvarc_020.html) | [[戻る]](../theinterviews_index02.html)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+  
+**29** | **あなたに最も影響を与えた人物はどなたですか？**  
+---|---  
+|  影響を、ですか。  
+色々な分野の色々な人の影響を受けていますが、ここでは美少女着ぐるみの分野で、と言う事で言うなら、間違いなくDOLL HOUSEの牧瀬由希さんです。  
+この人がいなければ、そもそも、私がアマチュア美少女着ぐるみのコミュニティーに接点を持とうとは思わなかったでしょうし、InsideDollと言う存在はありませんでしたし。  
+  
+---  
+2012-01-31 22:11:57  
+  
+  
+  
+![](../img/line01.gif)
+
+[[戻る]](../theinterviews_index02.html)  
+---
