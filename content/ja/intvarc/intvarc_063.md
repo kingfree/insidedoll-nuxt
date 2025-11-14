@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_063.html"
+source: "intvarc/intvarc_063"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_071.html) | [[ 70 ]](intvarc_070.html) | [[ 69 ]](intvarc_069.html) | [[ 68 ]](intvarc_068.html) | [[ 67 ]](intvarc_067.html) | [[ 66 ]](intvarc_066.html) | [[ 65 ]](intvarc_065.html) | [[ 64 ]](intvarc_064.html) | [ 63 ] | [[ 62 ]](intvarc_062.html) | [[ 61 ]](intvarc_061.html) | [＞＞](intvarc_060.html) | [[戻る]](../theinterviews_index04.html)  
+| [＜＜](intvarc_071) | [[ 70 ]](intvarc_070) | [[ 69 ]](intvarc_069) | [[ 68 ]](intvarc_068) | [[ 67 ]](intvarc_067) | [[ 66 ]](intvarc_066) | [[ 65 ]](intvarc_065) | [[ 64 ]](intvarc_064) | [ 63 ] | [[ 62 ]](intvarc_062) | [[ 61 ]](intvarc_061) | [＞＞](intvarc_060) | [[戻る]](../theinterviews_index04)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **63** | **Insidedoll仕様の着ぐるみにしてみたい版権キャラはいますか？**  
@@ -64,5 +64,5 @@ InsideDoll仕様の着ぐるみで版権キャラですか。版権キャラ、�
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index04.html)  
+[[戻る]](../theinterviews_index04)  
 ---

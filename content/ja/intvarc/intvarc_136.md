@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_136.html"
+source: "intvarc/intvarc_136"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_141.html) | [[ 140 ]](intvarc_140.html) | [[ 139 ]](intvarc_139.html) | [[ 138 ]](intvarc_138.html) | [[ 137 ]](intvarc_137.html) | [ 136 ] | [[ 135 ]](intvarc_135.html) | [[ 134 ]](intvarc_134.html) | [[ 133 ]](intvarc_133.html) | [[ 132 ]](intvarc_132.html) | [[ 131 ]](intvarc_131.html) | [＞＞](intvarc_130.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_141) | [[ 140 ]](intvarc_140) | [[ 139 ]](intvarc_139) | [[ 138 ]](intvarc_138) | [[ 137 ]](intvarc_137) | [ 136 ] | [[ 135 ]](intvarc_135) | [[ 134 ]](intvarc_134) | [[ 133 ]](intvarc_133) | [[ 132 ]](intvarc_132) | [[ 131 ]](intvarc_131) | [＞＞](intvarc_130) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **136** | **あまりにもお人形さんの中の人が感じすぎて感じすぎて我慢しきれず声が漏れてしまった場合。それを聞いてしまった(喘ぎ声を押し殺したような・・・ぁんっ！とかんぁぅ…!とか)場合、聞いた側は本当に悶々としてしまいそうですよね？**  
@@ -74,5 +74,5 @@ source: "intvarc/intvarc_136.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

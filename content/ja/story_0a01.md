@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0a01.html"
+source: "story_0a01"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **お嬢様物語：雨宿り（１話）** | [[戻る]](story01.html)  
-[[次へ]](story_0a02.html)  
+| **お嬢様物語：雨宿り（１話）** | [[戻る]](story01)  
+[[次へ]](story_0a02)  
 ---|---|---  
 |  |    
   
@@ -191,5 +188,5 @@ source: "story_0a01.html"
   
 ![](img/line01.gif)
 
-[[戻る]](story01.html) [[次へ]](story_0a02.html)  
+[[戻る]](story01) [[次へ]](story_0a02)  
 ---

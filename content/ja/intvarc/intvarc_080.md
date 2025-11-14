@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_080.html"
+source: "intvarc/intvarc_080"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_081.html) | [ 80 ] | [[ 79 ]](intvarc_079.html) | [[ 78 ]](intvarc_078.html) | [[ 77 ]](intvarc_077.html) | [[ 76 ]](intvarc_076.html) | [[ 75 ]](intvarc_075.html) | [[ 74 ]](intvarc_074.html) | [[ 73 ]](intvarc_073.html) | [[ 72 ]](intvarc_072.html) | [[ 71 ]](intvarc_071.html) | [＞＞](intvarc_070.html) | [[戻る]](../theinterviews_index04.html)  
+| [＜＜](intvarc_081) | [ 80 ] | [[ 79 ]](intvarc_079) | [[ 78 ]](intvarc_078) | [[ 77 ]](intvarc_077) | [[ 76 ]](intvarc_076) | [[ 75 ]](intvarc_075) | [[ 74 ]](intvarc_074) | [[ 73 ]](intvarc_073) | [[ 72 ]](intvarc_072) | [[ 71 ]](intvarc_071) | [＞＞](intvarc_070) | [[戻る]](../theinterviews_index04)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **80** | **小さなフィギュアと化した美少女たちは、仕事が終わった後もお楽しみがあるのでしょうか？**  
@@ -18,7 +18,7 @@ source: "intvarc/intvarc_080.html"
   
 前回の質問  
   
-[[intvarc_079.html](intvarc_079.html)]  
+[[intvarc_079](intvarc_079)]  
   
 の続きの質問と考えてよろしいですかね？  
   
@@ -125,5 +125,5 @@ source: "intvarc/intvarc_080.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index04.html)  
+[[戻る]](../theinterviews_index04)  
 ---

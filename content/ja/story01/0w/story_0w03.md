@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0w/story_0w03.html"
+source: "story01/0w/story_0w03"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **セイラ姫の事情（３話）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0w02.html)  
+| **セイラ姫の事情（３話）** | [[戻る]](../../story01)  
+[[前へ]](story_0w02)  
 ---|---|---  
 |  |    
   

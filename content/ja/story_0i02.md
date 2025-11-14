@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0i02.html"
+source: "story_0i02"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **天使のドレス－美しきドレス編（後編）** | [[戻る]](story01.html)  
-[[前へ]](story_0i01.html)  
+| **天使のドレス－美しきドレス編（後編）** | [[戻る]](story01)  
+[[前へ]](story_0i01)  
 ---|---|---  
 |  |    
   
@@ -212,5 +209,5 @@ source: "story_0i02.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0i01.html) [[戻る]](story01.html)  
+[[前へ]](story_0i01) [[戻る]](story01)  
 ---

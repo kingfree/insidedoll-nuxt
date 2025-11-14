@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_129.html"
+source: "intvarc/intvarc_129"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_131.html) | [[ 130 ]](intvarc_130.html) | [ 129 ] | [[ 128 ]](intvarc_128.html) | [[ 127 ]](intvarc_127.html) | [[ 126 ]](intvarc_126.html) | [[ 125 ]](intvarc_125.html) | [[ 124 ]](intvarc_124.html) | [[ 123 ]](intvarc_123.html) | [[ 122 ]](intvarc_122.html) | [[ 121 ]](intvarc_121.html) | [＞＞](intvarc_120.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_131) | [[ 130 ]](intvarc_130) | [ 129 ] | [[ 128 ]](intvarc_128) | [[ 127 ]](intvarc_127) | [[ 126 ]](intvarc_126) | [[ 125 ]](intvarc_125) | [[ 124 ]](intvarc_124) | [[ 123 ]](intvarc_123) | [[ 122 ]](intvarc_122) | [[ 121 ]](intvarc_121) | [＞＞](intvarc_120) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **129** | **とん太さんの作品に訓練所で女の子になり演技指導を受けている様子が余り見られないのですが、演技中に男の子が出ちゃったりするのが微妙だからですか?**  
@@ -41,5 +41,5 @@ source: "intvarc/intvarc_129.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

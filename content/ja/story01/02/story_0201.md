@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/02/story_0201.html"
+source: "story01/02/story_0201"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **サヤカの秘密(１章)** | [[戻る]](../../story01.html)  
-[[次へ]](story_0202.html)  
+| **サヤカの秘密(１章)** | [[戻る]](../../story01)  
+[[次へ]](story_0202)  
 ---|---|---  
 |  |   
 「はははは、ダッセーな。こいつ、またこんなマンガ見てるよ。」  
@@ -556,5 +556,5 @@ source: "story01/02/story_0201.html"
   
 ![](../../img/line01.gif)
 
-[[戻る]](../../story01.html) [[次へ]](story_0202.html)  
+[[戻る]](../../story01) [[次へ]](story_0202)  
 ---

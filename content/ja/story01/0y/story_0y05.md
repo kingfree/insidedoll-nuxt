@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0y/story_0y05.html"
+source: "story01/0y/story_0y05"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **手品が趣味なせいで羨ましい着ぐるみに嫉妬してしまう件（５話）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0y04.html)  
+| **手品が趣味なせいで羨ましい着ぐるみに嫉妬してしまう件（５話）** | [[戻る]](../../story01)  
+[[前へ]](story_0y04)  
 ---|---|---  
 |  |    
   
@@ -315,5 +315,5 @@ source: "story01/0y/story_0y05.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0y04.html) [[戻る]](../../story01.html)  
+[[前へ]](story_0y04) [[戻る]](../../story01)  
 ---

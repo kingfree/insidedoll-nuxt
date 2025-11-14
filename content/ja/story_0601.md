@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0601.html"
+source: "story_0601"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **魅惑のイベント会場(１章)** | [[戻る]](story01.html)  
-[[次へ]](story_0602.html)  
+| **魅惑のイベント会場(１章)** | [[戻る]](story01)  
+[[次へ]](story_0602)  
 ---|---|---  
 |  |   
 ＸＸ年○月某日 秋葉原特設イベント会場。  
@@ -361,5 +358,5 @@ source: "story_0601.html"
   
 ![](img/line01.gif)
 
-[[戻る]](story01.html) [[次へ]](story_0602.html)  
+[[戻る]](story01) [[次へ]](story_0602)  
 ---

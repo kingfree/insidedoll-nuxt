@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_050.html"
+source: "intvarc/intvarc_050"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_051.html) | [ 50 ] | [[ 49 ]](intvarc_049.html) | [[ 48 ]](intvarc_048.html) | [[ 47 ]](intvarc_047.html) | [[ 46 ]](intvarc_046.html) | [[ 45 ]](intvarc_045.html) | [[ 44 ]](intvarc_044.html) | [[ 43 ]](intvarc_043.html) | [[ 42 ]](intvarc_042.html) | [[ 41 ]](intvarc_041.html) | [＞＞](intvarc_040.html) | [[戻る]](../theinterviews_index03.html)  
+| [＜＜](intvarc_051) | [ 50 ] | [[ 49 ]](intvarc_049) | [[ 48 ]](intvarc_048) | [[ 47 ]](intvarc_047) | [[ 46 ]](intvarc_046) | [[ 45 ]](intvarc_045) | [[ 44 ]](intvarc_044) | [[ 43 ]](intvarc_043) | [[ 42 ]](intvarc_042) | [[ 41 ]](intvarc_041) | [＞＞](intvarc_040) | [[戻る]](../theinterviews_index03)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **50** | **今日だけで100万円使い切ってくださいと言われたらどのように使いますか？**  
@@ -23,7 +23,7 @@ source: "intvarc/intvarc_050.html"
   
 どのぐらいの価格なのかは分からないのですが、股間呼吸システムを作ってみたいと言うのはあります。  
 当然着ぐるみのマスクも、少し大きめにして、内部に呼吸用のマスクを装備できるようにする。  
-呼吸用のマスクは、レブナ「 <http://patentworks.info/products.html> 」と言う、マスクをベースにするといいかな。これ、鼻で吸う、口で吐く、と言う呼吸法を身につけるためのマスクで、口と鼻で間仕切りがあって、呼吸経路が分離出来るんです。  
+呼吸用のマスクは、レブナ「 <http://patentworks.info/products> 」と言う、マスクをベースにするといいかな。これ、鼻で吸う、口で吐く、と言う呼吸法を身につけるためのマスクで、口と鼻で間仕切りがあって、呼吸経路が分離出来るんです。  
 また、吸う側、吐く側、それぞれにバルブがあって、逆流できない仕組みになっています(標準では逆流しにくい、ぐらいの強度のバルブですが)  
   
 ですから、この、鼻側と口側のバルブ部分にチューブを繋いで、ボディースーツのような物を伝って股間まで導く。  
@@ -44,5 +44,5 @@ source: "intvarc/intvarc_050.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index03.html)  
+[[戻る]](../theinterviews_index03)  
 ---

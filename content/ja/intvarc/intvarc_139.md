@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_139.html"
+source: "intvarc/intvarc_139"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_141.html) | [[ 140 ]](intvarc_140.html) | [ 139 ] | [[ 138 ]](intvarc_138.html) | [[ 137 ]](intvarc_137.html) | [[ 136 ]](intvarc_136.html) | [[ 135 ]](intvarc_135.html) | [[ 134 ]](intvarc_134.html) | [[ 133 ]](intvarc_133.html) | [[ 132 ]](intvarc_132.html) | [[ 131 ]](intvarc_131.html) | [＞＞](intvarc_130.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_141) | [[ 140 ]](intvarc_140) | [ 139 ] | [[ 138 ]](intvarc_138) | [[ 137 ]](intvarc_137) | [[ 136 ]](intvarc_136) | [[ 135 ]](intvarc_135) | [[ 134 ]](intvarc_134) | [[ 133 ]](intvarc_133) | [[ 132 ]](intvarc_132) | [[ 131 ]](intvarc_131) | [＞＞](intvarc_130) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **139** | **着ぐるみを着た後は、自分の身体から着ぐるみの残り香がしますよね？ホビー２１の役者さんも仕事後ふと自分についたゴムっぽい匂いを感じてたまらない気持ちになるのでしょうか？また憧れのヒロインが消えていった楽屋から残り香をさせた人が出てきたら、それもたまらない気持ちになるのでしょうか**  
@@ -50,5 +50,5 @@ source: "intvarc/intvarc_139.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

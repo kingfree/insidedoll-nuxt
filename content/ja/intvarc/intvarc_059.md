@@ -1,6 +1,6 @@
 ---
-title: "intvarc_059.html"
-source: "intvarc/intvarc_059.html"
+title: "intvarc_059"
+source: "intvarc/intvarc_059"
 ---
 
 

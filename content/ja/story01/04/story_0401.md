@@ -1,12 +1,12 @@
 ---
 title: "Inside Doll"
-source: "story01/04/story_0401.html"
+source: "story01/04/story_0401"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **ＤｏｌｌＣｌｕｂ** | [[戻る]](../../story01.html)  
+| **ＤｏｌｌＣｌｕｂ** | [[戻る]](../../story01)  
   
 ---|---|---  
 |  |   
@@ -303,5 +303,5 @@ source: "story01/04/story_0401.html"
   
 ![](../../img/line01.gif)
 
-[[戻る]](../../story01.html)  
+[[戻る]](../../story01)  
 ---

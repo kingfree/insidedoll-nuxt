@@ -1,12 +1,9 @@
 ---
 title: "Inside Doll"
-source: "sendstory.html"
+source: "sendstory"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **投稿募集** | [[戻る]](story.html)  
+| **投稿募集** | [[戻る]](story)  
 ---|---|---  
 |  |  当サイトでは、皆様からの**美少女着ぐるみフェチ物語** を募集しております。  
 条件としては**美少女着ぐるみが話のメイン** である事が前提となりますが、それ以外の状況設定は特に問いません。  
@@ -29,5 +26,5 @@ source: "sendstory.html"
   
 ![](img/line01.gif)
 
-[[戻る]](story.html)  
+[[戻る]](story)  
 ---

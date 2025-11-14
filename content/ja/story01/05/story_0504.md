@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/05/story_0504.html"
+source: "story01/05/story_0504"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **友達？彼女？それとも・・・(４章)** | [[戻る]](../../story01.html)  
-[[前へ]](story_0503.html) [[次へ]](story_0505.html)  
+| **友達？彼女？それとも・・・(４章)** | [[戻る]](../../story01)  
+[[前へ]](story_0503) [[次へ]](story_0505)  
 ---|---|---  
 |  |   
 和志とは、学校では友達として。そしてプライベートではカレンとして接する事が圧倒的に多くなった真一。  
@@ -289,5 +289,5 @@ source: "story01/05/story_0504.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0503.html) [[戻る]](../../story01.html) [[次へ]](story_0505.html)  
+[[前へ]](story_0503) [[戻る]](../../story01) [[次へ]](story_0505)  
 ---

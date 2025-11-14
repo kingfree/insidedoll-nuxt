@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_128.html"
+source: "intvarc/intvarc_128"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_131.html) | [[ 130 ]](intvarc_130.html) | [[ 129 ]](intvarc_129.html) | [ 128 ] | [[ 127 ]](intvarc_127.html) | [[ 126 ]](intvarc_126.html) | [[ 125 ]](intvarc_125.html) | [[ 124 ]](intvarc_124.html) | [[ 123 ]](intvarc_123.html) | [[ 122 ]](intvarc_122.html) | [[ 121 ]](intvarc_121.html) | [＞＞](intvarc_120.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_131) | [[ 130 ]](intvarc_130) | [[ 129 ]](intvarc_129) | [ 128 ] | [[ 127 ]](intvarc_127) | [[ 126 ]](intvarc_126) | [[ 125 ]](intvarc_125) | [[ 124 ]](intvarc_124) | [[ 123 ]](intvarc_123) | [[ 122 ]](intvarc_122) | [[ 121 ]](intvarc_121) | [＞＞](intvarc_120) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **128** | **スキー場のイベントで、吹雪いてきてしまって、山頂の山小屋で一晩美少女と二人っきり暖めあって過ごすことになったら素敵ですよね？**  
@@ -106,5 +106,5 @@ source: "intvarc/intvarc_128.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

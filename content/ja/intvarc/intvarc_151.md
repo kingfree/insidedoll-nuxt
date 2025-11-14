@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_151.html"
+source: "intvarc/intvarc_151"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_161.html) | [[ 160 ]](intvarc_160.html) | [[ 159 ]](intvarc_159.html) | [[ 158 ]](intvarc_158.html) | [[ 157 ]](intvarc_157.html) | [[ 156 ]](intvarc_156.html) | [[ 155 ]](intvarc_155.html) | [[ 154 ]](intvarc_154.html) | [[ 153 ]](intvarc_153.html) | [[ 152 ]](intvarc_152.html) | [ 151 ] | [＞＞](intvarc_150.html) | [[戻る]](../theinterviews_index08.html)  
+| [＜＜](intvarc_161) | [[ 160 ]](intvarc_160) | [[ 159 ]](intvarc_159) | [[ 158 ]](intvarc_158) | [[ 157 ]](intvarc_157) | [[ 156 ]](intvarc_156) | [[ 155 ]](intvarc_155) | [[ 154 ]](intvarc_154) | [[ 153 ]](intvarc_153) | [[ 152 ]](intvarc_152) | [ 151 ] | [＞＞](intvarc_150) | [[戻る]](../theinterviews_index08)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **151** | **回答にあったアダルトグッズ売り場の着ぐるみさんの仕事が気になります。やはりセクシーで扇情的な演技でキャットスーツやボンテージ衣装を着たり、売り物のリアルラブドールと見分がつかない同じ容姿だったりするのでしょうか。**  
@@ -52,5 +52,5 @@ source: "intvarc/intvarc_151.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index08.html)  
+[[戻る]](../theinterviews_index08)  
 ---

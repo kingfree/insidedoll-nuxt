@@ -1,4 +1,10 @@
 import { defineContentConfig, defineCollection } from '@nuxt/content'
+import { z } from 'zod'
+
+const schema = z.object({
+  date: z.string(),
+  update: z.string(),
+})
 
 export default defineContentConfig({
   collections: {
@@ -7,7 +13,8 @@ export default defineContentConfig({
       source: {
         include: 'ja/**/*.md',
         prefix: ''
-      }
+      },
+      schema
     })
   }
 })

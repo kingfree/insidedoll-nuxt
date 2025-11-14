@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_097.html"
+source: "intvarc/intvarc_097"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_101.html) | [[ 100 ]](intvarc_100.html) | [[ 99 ]](intvarc_099.html) | [[ 98 ]](intvarc_098.html) | [ 97 ] | [[ 96 ]](intvarc_096.html) | [[ 95 ]](intvarc_095.html) | [[ 94 ]](intvarc_094.html) | [[ 93 ]](intvarc_093.html) | [[ 92 ]](intvarc_092.html) | [[ 91 ]](intvarc_091.html) | [＞＞](intvarc_090.html) | [[戻る]](../theinterviews_index05.html)  
+| [＜＜](intvarc_101) | [[ 100 ]](intvarc_100) | [[ 99 ]](intvarc_099) | [[ 98 ]](intvarc_098) | [ 97 ] | [[ 96 ]](intvarc_096) | [[ 95 ]](intvarc_095) | [[ 94 ]](intvarc_094) | [[ 93 ]](intvarc_093) | [[ 92 ]](intvarc_092) | [[ 91 ]](intvarc_091) | [＞＞](intvarc_090) | [[戻る]](../theinterviews_index05)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **97** | **ホビー21の美少女が、自分(役者)の両親や兄弟に出くわしたとき、いったいどんな反応をするのでしょう？ 一見普通にしてるのでしょうが、彼女の相方の美少女がその裏事情を知っていたら切ないでしょうね**  
@@ -83,5 +83,5 @@ source: "intvarc/intvarc_097.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index05.html)  
+[[戻る]](../theinterviews_index05)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_108.html"
+source: "intvarc/intvarc_108"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_111.html) | [[ 110 ]](intvarc_110.html) | [[ 109 ]](intvarc_109.html) | [ 108 ] | [[ 107 ]](intvarc_107.html) | [[ 106 ]](intvarc_106.html) | [[ 105 ]](intvarc_105.html) | [[ 104 ]](intvarc_104.html) | [[ 103 ]](intvarc_103.html) | [[ 102 ]](intvarc_102.html) | [[ 101 ]](intvarc_101.html) | [＞＞](intvarc_100.html) | [[戻る]](../theinterviews_index06.html)  
+| [＜＜](intvarc_111) | [[ 110 ]](intvarc_110) | [[ 109 ]](intvarc_109) | [ 108 ] | [[ 107 ]](intvarc_107) | [[ 106 ]](intvarc_106) | [[ 105 ]](intvarc_105) | [[ 104 ]](intvarc_104) | [[ 103 ]](intvarc_103) | [[ 102 ]](intvarc_102) | [[ 101 ]](intvarc_101) | [＞＞](intvarc_100) | [[戻る]](../theinterviews_index06)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **108** | **もう年末ですね。ところで2000年の年越しは何をしていましたか？**  
@@ -32,5 +32,5 @@ source: "intvarc/intvarc_108.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index06.html)  
+[[戻る]](../theinterviews_index06)  
 ---

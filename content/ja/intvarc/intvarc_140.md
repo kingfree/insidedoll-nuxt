@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_140.html"
+source: "intvarc/intvarc_140"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_141.html) | [ 140 ] | [[ 139 ]](intvarc_139.html) | [[ 138 ]](intvarc_138.html) | [[ 137 ]](intvarc_137.html) | [[ 136 ]](intvarc_136.html) | [[ 135 ]](intvarc_135.html) | [[ 134 ]](intvarc_134.html) | [[ 133 ]](intvarc_133.html) | [[ 132 ]](intvarc_132.html) | [[ 131 ]](intvarc_131.html) | [＞＞](intvarc_130.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_141) | [ 140 ] | [[ 139 ]](intvarc_139) | [[ 138 ]](intvarc_138) | [[ 137 ]](intvarc_137) | [[ 136 ]](intvarc_136) | [[ 135 ]](intvarc_135) | [[ 134 ]](intvarc_134) | [[ 133 ]](intvarc_133) | [[ 132 ]](intvarc_132) | [[ 131 ]](intvarc_131) | [＞＞](intvarc_130) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **140** | **着ぐるみの上から特殊メイクしてみたくないですか？ 例えばこのイラストの最後に出てくる串焼きにされちゃった女の子とか筆が何度もおへその下を通りましてね…[http://touch.pixiv.net/member_illust.php?mode=medium&illust_id=34406191](http://touch.pixiv.net/member_illust.php?mode=medium&illust_id=34406191)**  
@@ -53,5 +53,5 @@ InsideDoll型着ぐるみは、そもそも、その身体のセンサーの作�
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

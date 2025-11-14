@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_028.html"
+source: "intvarc/intvarc_028"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_031.html) | [[ 30 ]](intvarc_030.html) | [[ 29 ]](intvarc_029.html) | [ 28 ] | [[ 27 ]](intvarc_027.html) | [[ 26 ]](intvarc_026.html) | [[ 25 ]](intvarc_025.html) | [[ 24 ]](intvarc_024.html) | [[ 23 ]](intvarc_023.html) | [[ 22 ]](intvarc_022.html) | [[ 21 ]](intvarc_021.html) | [＞＞](intvarc_020.html) | [[戻る]](../theinterviews_index02.html)  
+| [＜＜](intvarc_031) | [[ 30 ]](intvarc_030) | [[ 29 ]](intvarc_029) | [ 28 ] | [[ 27 ]](intvarc_027) | [[ 26 ]](intvarc_026) | [[ 25 ]](intvarc_025) | [[ 24 ]](intvarc_024) | [[ 23 ]](intvarc_023) | [[ 22 ]](intvarc_022) | [[ 21 ]](intvarc_021) | [＞＞](intvarc_020) | [[戻る]](../theinterviews_index02)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **28** | **「着ぐるみさんが一生懸命お人形さんのふりをしていて、外部の人が、そこに人が入っていると気づかずにあれこれ触る」というシチュエーションは、何度か書かれていますがお好きなのでしょうか。**  
@@ -22,7 +22,7 @@ source: "intvarc/intvarc_028.html"
   
 記事はこちら↓  
   
-<http://insidedoll.dip.jp/blog/2012/01/post-113.html>  
+<http://insidedoll.dip.jp/blog/2012/01/post-113>  
   
   
 このブログ記事の方を持って、こちらへの回答とさせていただきたく思います。  
@@ -34,5 +34,5 @@ source: "intvarc/intvarc_028.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index02.html)  
+[[戻る]](../theinterviews_index02)  
 ---

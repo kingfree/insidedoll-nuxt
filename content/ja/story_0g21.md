@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0g21.html"
+source: "story_0g21"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **『聖包ミステリー研究会』（前編）** | [[戻る]](storyg1.html)  
-[[次へ]](story_0g22.html)  
+| **『聖包ミステリー研究会』（前編）** | [[戻る]](storyg1)  
+[[次へ]](story_0g22)  
 ---|---|---  
 |  |    
   
@@ -354,5 +351,5 @@ source: "story_0g21.html"
   
 ![](img/line01.gif)
 
-[[戻る]](storyg1.html) [[次へ]](story_0g22.html)  
+[[戻る]](storyg1) [[次へ]](story_0g22)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_032.html"
+source: "intvarc/intvarc_032"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_041.html) | [[ 40 ]](intvarc_040.html) | [[ 39 ]](intvarc_039.html) | [[ 38 ]](intvarc_038.html) | [[ 37 ]](intvarc_037.html) | [[ 36 ]](intvarc_036.html) | [[ 35 ]](intvarc_035.html) | [[ 34 ]](intvarc_034.html) | [[ 33 ]](intvarc_033.html) | [ 32 ] | [[ 31 ]](intvarc_031.html) | [＞＞](intvarc_030.html) | [[戻る]](../theinterviews_index02.html)  
+| [＜＜](intvarc_041) | [[ 40 ]](intvarc_040) | [[ 39 ]](intvarc_039) | [[ 38 ]](intvarc_038) | [[ 37 ]](intvarc_037) | [[ 36 ]](intvarc_036) | [[ 35 ]](intvarc_035) | [[ 34 ]](intvarc_034) | [[ 33 ]](intvarc_033) | [ 32 ] | [[ 31 ]](intvarc_031) | [＞＞](intvarc_030) | [[戻る]](../theinterviews_index02)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **32** | **おすすめの家電をひとつ教えてください。**  
@@ -77,5 +77,5 @@ InsideDoll的な着ぐるみさんの女の子。アイドルグループの着�
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index02.html)  
+[[戻る]](../theinterviews_index02)  
 ---

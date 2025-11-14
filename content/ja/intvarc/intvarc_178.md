@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_178.html"
+source: "intvarc/intvarc_178"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| \---- | [ --- ] | [ --- ] | [ 178 ] | [[ 177 ]](intvarc_177.html) | [[ 176 ]](intvarc_176.html) | [[ 175 ]](intvarc_175.html) | [[ 174 ]](intvarc_174.html) | [[ 173 ]](intvarc_173.html) | [[ 172 ]](intvarc_172.html) | [[ 171 ]](intvarc_171.html) | [＞＞](intvarc_170.html) | [[戻る]](../theinterviews_index09.html)  
+| \---- | [ --- ] | [ --- ] | [ 178 ] | [[ 177 ]](intvarc_177) | [[ 176 ]](intvarc_176) | [[ 175 ]](intvarc_175) | [[ 174 ]](intvarc_174) | [[ 173 ]](intvarc_173) | [[ 172 ]](intvarc_172) | [[ 171 ]](intvarc_171) | [＞＞](intvarc_170) | [[戻る]](../theinterviews_index09)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **178** | **ホビー21の着ぐるみの自宅へ持ち帰りがしばしば問題になっていますが、ホビー21に寮を併設してしまってはいかがでしょう？自室で着替えてそのまま出勤できたり**  
@@ -50,5 +50,5 @@ source: "intvarc/intvarc_178.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index09.html)  
+[[戻る]](../theinterviews_index09)  
 ---

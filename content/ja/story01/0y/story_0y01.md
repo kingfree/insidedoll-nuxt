@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0y/story_0y01.html"
+source: "story01/0y/story_0y01"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **手品が趣味なせいで羨ましい着ぐるみに嫉妬してしまう件（１話）** | [[戻る]](../../story01.html)  
-[[次へ]](story_0y02.html)  
+| **手品が趣味なせいで羨ましい着ぐるみに嫉妬してしまう件（１話）** | [[戻る]](../../story01)  
+[[次へ]](story_0y02)  
 ---|---|---  
 |  |    
   
@@ -222,5 +222,5 @@ v 今日も見ていた女性が指名されて彼女の胸のあたりに名前
   
 ![](../../img/line01.gif)
 
-[[戻る]](../../story01.html) [[次へ]](story_0y02.html)  
+[[戻る]](../../story01) [[次へ]](story_0y02)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_011.html"
+source: "intvarc/intvarc_011"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_021.html) | [[ 20 ]](intvarc_020.html) | [[ 19 ]](intvarc_019.html) | [[ 18 ]](intvarc_018.html) | [[ 17 ]](intvarc_017.html) | [[ 16 ]](intvarc_016.html) | [[ 15 ]](intvarc_015.html) | [[ 14 ]](intvarc_014.html) | [[ 13 ]](intvarc_013.html) | [[ 12 ]](intvarc_012.html) | [ 11 ] | [＞＞](intvarc_010.html) | [[戻る]](../theinterviews_index01.html)  
+| [＜＜](intvarc_021) | [[ 20 ]](intvarc_020) | [[ 19 ]](intvarc_019) | [[ 18 ]](intvarc_018) | [[ 17 ]](intvarc_017) | [[ 16 ]](intvarc_016) | [[ 15 ]](intvarc_015) | [[ 14 ]](intvarc_014) | [[ 13 ]](intvarc_013) | [[ 12 ]](intvarc_012) | [ 11 ] | [＞＞](intvarc_010) | [[戻る]](../theinterviews_index01)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **11** | **極端に低身長の着ぐるみって、それだけでぐっときませんか？**  
@@ -36,8 +36,8 @@ source: "intvarc/intvarc_011.html"
 なんかほぼ一本、本編ネタを書くぐらいのボリュームになってます(汗  
 掲載はこちらです。  
   
-[[小柄な着ぐるみ (中が子供の着ぐるみ編)](http://insidedoll.dip.jp/blog/2011/12/post-109.html)]   
-[[小柄な着ぐるみ (特殊スーツで大人が縮む編)](http://insidedoll.dip.jp/blog/2011/12/post-110.html)]   
+[[小柄な着ぐるみ (中が子供の着ぐるみ編)](http://insidedoll.dip.jp/blog/2011/12/post-109)]   
+[[小柄な着ぐるみ (特殊スーツで大人が縮む編)](http://insidedoll.dip.jp/blog/2011/12/post-110)]   
   
 この記事を持ってこちらへの回答、とさせてください。  
 ではでは。  
@@ -49,5 +49,5 @@ source: "intvarc/intvarc_011.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index01.html)  
+[[戻る]](../theinterviews_index01)  
 ---

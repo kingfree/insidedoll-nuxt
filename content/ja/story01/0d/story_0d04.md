@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0d/story_0d04.html"
+source: "story01/0d/story_0d04"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **お姫様がやって来た（４話）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0d03.html)  
+| **お姫様がやって来た（４話）** | [[戻る]](../../story01)  
+[[前へ]](story_0d03)  
 ---|---|---  
 |  |    
   
@@ -256,5 +256,5 @@ source: "story01/0d/story_0d04.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0d03.html) [[戻る]](../../story01.html)  
+[[前へ]](story_0d03) [[戻る]](../../story01)  
 ---

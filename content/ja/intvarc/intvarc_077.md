@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_077.html"
+source: "intvarc/intvarc_077"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_081.html) | [[ 80 ]](intvarc_080.html) | [[ 79 ]](intvarc_079.html) | [[ 78 ]](intvarc_078.html) | [ 77 ] | [[ 76 ]](intvarc_076.html) | [[ 75 ]](intvarc_075.html) | [[ 74 ]](intvarc_074.html) | [[ 73 ]](intvarc_073.html) | [[ 72 ]](intvarc_072.html) | [[ 71 ]](intvarc_071.html) | [＞＞](intvarc_070.html) | [[戻る]](../theinterviews_index04.html)  
+| [＜＜](intvarc_081) | [[ 80 ]](intvarc_080) | [[ 79 ]](intvarc_079) | [[ 78 ]](intvarc_078) | [ 77 ] | [[ 76 ]](intvarc_076) | [[ 75 ]](intvarc_075) | [[ 74 ]](intvarc_074) | [[ 73 ]](intvarc_073) | [[ 72 ]](intvarc_072) | [[ 71 ]](intvarc_071) | [＞＞](intvarc_070) | [[戻る]](../theinterviews_index04)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **77** | **Insidedoll着ぐるみのインナースーツの重ね着は可能ですか？3枚重ね着すると70％の70％の70％ で34％、170cmの身長が60cmくらいに…みたいな**  
@@ -54,5 +54,5 @@ source: "intvarc/intvarc_077.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index04.html)  
+[[戻る]](../theinterviews_index04)  
 ---

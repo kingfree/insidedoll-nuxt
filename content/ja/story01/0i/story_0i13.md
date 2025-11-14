@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0i/story_0i13.html"
+source: "story01/0i/story_0i13"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **天使のドレス－悩ましきドレス編（後編）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0i12.html)  
+| **天使のドレス－悩ましきドレス編（後編）** | [[戻る]](../../story01)  
+[[前へ]](story_0i12)  
 ---|---|---  
 |  |    
   
@@ -331,5 +331,5 @@ v 僕は楽屋に戻って、ミリアの中に自分の身体を埋めはじめ
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0i12.html) [[戻る]](../../story01.html)  
+[[前へ]](story_0i12) [[戻る]](../../story01)  
 ---

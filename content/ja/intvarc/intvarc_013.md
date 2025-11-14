@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_013.html"
+source: "intvarc/intvarc_013"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_021.html) | [[ 20 ]](intvarc_020.html) | [[ 19 ]](intvarc_019.html) | [[ 18 ]](intvarc_018.html) | [[ 17 ]](intvarc_017.html) | [[ 16 ]](intvarc_016.html) | [[ 15 ]](intvarc_015.html) | [[ 14 ]](intvarc_014.html) | [ 13 ] | [[ 12 ]](intvarc_012.html) | [[ 11 ]](intvarc_011.html) | [＞＞](intvarc_010.html) | [[戻る]](../theinterviews_index01.html)  
+| [＜＜](intvarc_021) | [[ 20 ]](intvarc_020) | [[ 19 ]](intvarc_019) | [[ 18 ]](intvarc_018) | [[ 17 ]](intvarc_017) | [[ 16 ]](intvarc_016) | [[ 15 ]](intvarc_015) | [[ 14 ]](intvarc_014) | [ 13 ] | [[ 12 ]](intvarc_012) | [[ 11 ]](intvarc_011) | [＞＞](intvarc_010) | [[戻る]](../theinterviews_index01)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **13** | **2011年はあなたにとってどんな年でしたか？**  
@@ -32,5 +32,5 @@ source: "intvarc/intvarc_013.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index01.html)  
+[[戻る]](../theinterviews_index01)  
 ---

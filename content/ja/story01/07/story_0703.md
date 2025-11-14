@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/07/story_0703.html"
+source: "story01/07/story_0703"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **ＤｏｌｌＣｌｕｂ～Ｅｐｉｓｏｄｅ ２～（３章）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0702.html) [[次へ]](story_0704.html)  
+| **ＤｏｌｌＣｌｕｂ～Ｅｐｉｓｏｄｅ ２～（３章）** | [[戻る]](../../story01)  
+[[前へ]](story_0702) [[次へ]](story_0704)  
 ---|---|---  
 |  |    
   
@@ -274,5 +274,5 @@ DollClubを後にした聡美は、帰り道、そして家で、ずっと今日
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0702.html) [[戻る]](../../story01.html) [[次へ]](story_0704.html)  
+[[前へ]](story_0702) [[戻る]](../../story01) [[次へ]](story_0704)  
 ---

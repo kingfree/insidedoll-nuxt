@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_045.html"
+source: "intvarc/intvarc_045"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_051.html) | [[ 50 ]](intvarc_050.html) | [[ 49 ]](intvarc_049.html) | [[ 48 ]](intvarc_048.html) | [[ 47 ]](intvarc_047.html) | [[ 46 ]](intvarc_046.html) | [ 45 ] | [[ 44 ]](intvarc_044.html) | [[ 43 ]](intvarc_043.html) | [[ 42 ]](intvarc_042.html) | [[ 41 ]](intvarc_041.html) | [＞＞](intvarc_040.html) | [[戻る]](../theinterviews_index03.html)  
+| [＜＜](intvarc_051) | [[ 50 ]](intvarc_050) | [[ 49 ]](intvarc_049) | [[ 48 ]](intvarc_048) | [[ 47 ]](intvarc_047) | [[ 46 ]](intvarc_046) | [ 45 ] | [[ 44 ]](intvarc_044) | [[ 43 ]](intvarc_043) | [[ 42 ]](intvarc_042) | [[ 41 ]](intvarc_041) | [＞＞](intvarc_040) | [[戻る]](../theinterviews_index03)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **45** | **とん太さんは動物型着ぐるみは興味おありですか？下半身の細胞補正を強くして思いきり短足にすれば、四足の犬になれるかなと思いまして。**  
@@ -55,5 +55,5 @@ source: "intvarc/intvarc_045.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index03.html)  
+[[戻る]](../theinterviews_index03)  
 ---

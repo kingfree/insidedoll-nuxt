@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0c03.html"
+source: "story_0c03"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **秘密のインタビュー（３話）** | [[戻る]](story01.html)  
-[[前へ]](story_0c02.html) [[次へ]](story_0c04.html)  
+| **秘密のインタビュー（３話）** | [[戻る]](story01)  
+[[前へ]](story_0c02) [[次へ]](story_0c04)  
 ---|---|---  
 |  |    
   
@@ -217,5 +214,5 @@ source: "story_0c03.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0c02.html) [[戻る]](story01.html) [[次へ]](story_0c04.html)  
+[[前へ]](story_0c02) [[戻る]](story01) [[次へ]](story_0c04)  
 ---

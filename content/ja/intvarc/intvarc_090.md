@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_090.html"
+source: "intvarc/intvarc_090"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_091.html) | [ 90 ] | [[ 89 ]](intvarc_089.html) | [[ 88 ]](intvarc_088.html) | [[ 87 ]](intvarc_087.html) | [[ 86 ]](intvarc_086.html) | [[ 85 ]](intvarc_085.html) | [[ 84 ]](intvarc_084.html) | [[ 83 ]](intvarc_083.html) | [[ 82 ]](intvarc_082.html) | [[ 81 ]](intvarc_081.html) | [＞＞](intvarc_080.html) | [[戻る]](../theinterviews_index05.html)  
+| [＜＜](intvarc_091) | [ 90 ] | [[ 89 ]](intvarc_089) | [[ 88 ]](intvarc_088) | [[ 87 ]](intvarc_087) | [[ 86 ]](intvarc_086) | [[ 85 ]](intvarc_085) | [[ 84 ]](intvarc_084) | [[ 83 ]](intvarc_083) | [[ 82 ]](intvarc_082) | [[ 81 ]](intvarc_081) | [＞＞](intvarc_080) | [[戻る]](../theinterviews_index05)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **90** | **とん太せんせい！Insidedoll着ぐるみ婦警さんに手錠をかけられて色々取り調べを受けたいです！(^q^)**  
@@ -55,5 +55,5 @@ source: "intvarc/intvarc_090.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index05.html)  
+[[戻る]](../theinterviews_index05)  
 ---

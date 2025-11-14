@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_168.html"
+source: "intvarc/intvarc_168"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_171.html) | [[ 170 ]](intvarc_170.html) | [[ 169 ]](intvarc_169.html) | [ 168 ] | [[ 167 ]](intvarc_167.html) | [[ 166 ]](intvarc_166.html) | [[ 165 ]](intvarc_165.html) | [[ 164 ]](intvarc_164.html) | [[ 163 ]](intvarc_163.html) | [[ 162 ]](intvarc_162.html) | [[ 161 ]](intvarc_161.html) | [＞＞](intvarc_160.html) | [[戻る]](../theinterviews_index09.html)  
+| [＜＜](intvarc_171) | [[ 170 ]](intvarc_170) | [[ 169 ]](intvarc_169) | [ 168 ] | [[ 167 ]](intvarc_167) | [[ 166 ]](intvarc_166) | [[ 165 ]](intvarc_165) | [[ 164 ]](intvarc_164) | [[ 163 ]](intvarc_163) | [[ 162 ]](intvarc_162) | [[ 161 ]](intvarc_161) | [＞＞](intvarc_160) | [[戻る]](../theinterviews_index09)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **168** | **JKお散歩が社会問題になっていますが、中の人が男性のDollClub着ぐるみだったら、散歩しようがホテルに連れ込もうがイチャイチャしようが問題ありませんよね？**  
@@ -101,5 +101,5 @@ DollClub着ぐるみ、と言う事ですから、ホビー21と違い、最終�
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index09.html)  
+[[戻る]](../theinterviews_index09)  
 ---

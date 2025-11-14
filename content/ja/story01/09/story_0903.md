@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/09/story_0903.html"
+source: "story01/09/story_0903"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **マスコット（暴露編）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0902.html)  
+| **マスコット（暴露編）** | [[戻る]](../../story01)  
+[[前へ]](story_0902)  
 ---|---|---  
 |  |    
   
@@ -237,5 +237,5 @@ source: "story01/09/story_0903.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0902.html) [[戻る]](../../story01.html)  
+[[前へ]](story_0902) [[戻る]](../../story01)  
 ---

@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_nc02.html"
+source: "story_nc02"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **アダルトビデオ（２話）** | [[戻る]](storyn1.html)  
-[[前へ]](story_nc01.html)  
+| **アダルトビデオ（２話）** | [[戻る]](storyn1)  
+[[前へ]](story_nc01)  
 ---|---|---  
 |  |    
   
@@ -305,5 +302,5 @@ source: "story_nc02.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_nc01.html) [[戻る]](storyn1.html)  
+[[前へ]](story_nc01) [[戻る]](storyn1)  
 ---

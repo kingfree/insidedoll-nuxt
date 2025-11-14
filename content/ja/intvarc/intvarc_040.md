@@ -1,18 +1,18 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_040.html"
+source: "intvarc/intvarc_040"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_041.html) | [ 40 ] | [[ 39 ]](intvarc_039.html) | [[ 38 ]](intvarc_038.html) | [[ 37 ]](intvarc_037.html) | [[ 36 ]](intvarc_036.html) | [[ 35 ]](intvarc_035.html) | [[ 34 ]](intvarc_034.html) | [[ 33 ]](intvarc_033.html) | [[ 32 ]](intvarc_032.html) | [[ 31 ]](intvarc_031.html) | [＞＞](intvarc_030.html) | [[戻る]](../theinterviews_index02.html)  
+| [＜＜](intvarc_041) | [ 40 ] | [[ 39 ]](intvarc_039) | [[ 38 ]](intvarc_038) | [[ 37 ]](intvarc_037) | [[ 36 ]](intvarc_036) | [[ 35 ]](intvarc_035) | [[ 34 ]](intvarc_034) | [[ 33 ]](intvarc_033) | [[ 32 ]](intvarc_032) | [[ 31 ]](intvarc_031) | [＞＞](intvarc_030) | [[戻る]](../theinterviews_index02)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
-**40** | **とん太さんこんにちは！ 子供ヴァギナって大人のものとちがって割れ目が深いらしいです→参考http://www.apricot-doll.com/doll/gallery.html 以前書かれた子供着ぐるみも、割れ目が深かったら息がとても苦しそうですね！**  
+**40** | **とん太さんこんにちは！ 子供ヴァギナって大人のものとちがって割れ目が深いらしいです→参考http://www.apricot-doll.com/doll/gallery 以前書かれた子供着ぐるみも、割れ目が深かったら息がとても苦しそうですね！**  
 ---|---  
 |  ご質問？ありがとうございます。  
   

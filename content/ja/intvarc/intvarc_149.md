@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_149.html"
+source: "intvarc/intvarc_149"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_151.html) | [[ 150 ]](intvarc_150.html) | [ 149 ] | [[ 148 ]](intvarc_148.html) | [[ 147 ]](intvarc_147.html) | [[ 146 ]](intvarc_146.html) | [[ 145 ]](intvarc_145.html) | [[ 144 ]](intvarc_144.html) | [[ 143 ]](intvarc_143.html) | [[ 142 ]](intvarc_142.html) | [[ 141 ]](intvarc_141.html) | [＞＞](intvarc_140.html) | [[戻る]](../theinterviews_index08.html)  
+| [＜＜](intvarc_151) | [[ 150 ]](intvarc_150) | [ 149 ] | [[ 148 ]](intvarc_148) | [[ 147 ]](intvarc_147) | [[ 146 ]](intvarc_146) | [[ 145 ]](intvarc_145) | [[ 144 ]](intvarc_144) | [[ 143 ]](intvarc_143) | [[ 142 ]](intvarc_142) | [[ 141 ]](intvarc_141) | [＞＞](intvarc_140) | [[戻る]](../theinterviews_index08)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **149** | **よく、アニメや漫画などで、大人のお姉さんが主人公に自分の大きい胸の谷間に顔を埋めさせるシーンとかありますよね。漫画などでは主人公が羨ましいですがinsidedollの場合お姉さん（の中の人）の方が羨ましそうですよね。**  
@@ -115,5 +115,5 @@ source: "intvarc/intvarc_149.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index08.html)  
+[[戻る]](../theinterviews_index08)  
 ---

@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0a21.html"
+source: "story_0a21"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **お嬢様物語：お嬢様！？（２話）** | [[戻る]](story01.html)  
-[[前へ]](story_0a20.html) [[次へ]](story_0a22.html)  
+| **お嬢様物語：お嬢様！？（２話）** | [[戻る]](story01)  
+[[前へ]](story_0a20) [[次へ]](story_0a22)  
 ---|---|---  
 |  |    
   
@@ -197,5 +194,5 @@ source: "story_0a21.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0a20.html) [[戻る]](story01.html) [[次へ]](story_0a22.html)  
+[[前へ]](story_0a20) [[戻る]](story01) [[次へ]](story_0a22)  
 ---

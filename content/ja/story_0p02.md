@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0p02.html"
+source: "story_0p02"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **お姫様とワンコ（２話）** | [[戻る]](story01.html)  
-[[前へ]](story_0p01.html)  
+| **お姫様とワンコ（２話）** | [[戻る]](story01)  
+[[前へ]](story_0p01)  
 ---|---|---  
 |  |    
   
@@ -268,5 +265,5 @@ source: "story_0p02.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0p01.html) [[戻る]](story01.html)  
+[[前へ]](story_0p01) [[戻る]](story01)  
 ---

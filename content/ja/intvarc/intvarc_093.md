@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_093.html"
+source: "intvarc/intvarc_093"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_101.html) | [[ 100 ]](intvarc_100.html) | [[ 99 ]](intvarc_099.html) | [[ 98 ]](intvarc_098.html) | [[ 97 ]](intvarc_097.html) | [[ 96 ]](intvarc_096.html) | [[ 95 ]](intvarc_095.html) | [[ 94 ]](intvarc_094.html) | [ 93 ] | [[ 92 ]](intvarc_092.html) | [[ 91 ]](intvarc_091.html) | [＞＞](intvarc_090.html) | [[戻る]](../theinterviews_index05.html)  
+| [＜＜](intvarc_101) | [[ 100 ]](intvarc_100) | [[ 99 ]](intvarc_099) | [[ 98 ]](intvarc_098) | [[ 97 ]](intvarc_097) | [[ 96 ]](intvarc_096) | [[ 95 ]](intvarc_095) | [[ 94 ]](intvarc_094) | [ 93 ] | [[ 92 ]](intvarc_092) | [[ 91 ]](intvarc_091) | [＞＞](intvarc_090) | [[戻る]](../theinterviews_index05)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **93** | **よく、「美少女の中に入りたい。」と仰られてますが、一番好みなのはどのような美少女でしょうか？ リアル風（本物の女性っぽい）、アニメ顔風、お人形型風、フィギュア風、フィメール顔風など色々ありますが、とん太さんの入ってみたいお好みはどれになるでしょう？**  
@@ -59,5 +59,5 @@ source: "intvarc/intvarc_093.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index05.html)  
+[[戻る]](../theinterviews_index05)  
 ---

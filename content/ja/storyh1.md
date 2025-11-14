@@ -1,12 +1,9 @@
 ---
 title: "Inside Doll"
-source: "storyh1.html"
+source: "storyh1"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-|  [［とん太の作品］](story01.html) [［成田君のお話］](storyn1.html) **［羽田君のお話］** [［お人形達の学園］](storyg1.html) | [[戻る]](main.html)  
+|  [［とん太の作品］](story01) [［成田君のお話］](storyn1) **［羽田君のお話］** [［お人形達の学園］](storyg1) | [[戻る]](main)  
 ---|---|---  
 |    
 **こちらは、羽田君、と言う登場人物のお話を集めたページです。  
@@ -16,17 +13,13 @@ source: "storyh1.html"
   
 |  タイトル |  章 |  備考   
 ---|---|---  
-オープニングスタッフ |  [**[１話]**](storyh1/h0/story_h001.html)／ [**[２話]**](storyh1/h0/story_h002.html)／ [**[３話]**](storyh1/h0/story_h003.html)／ [**[４話]**](storyh1/h0/story_h004.html)／ [**[５話]**](storyh1/h0/story_h005.html)  
-[**[６話]**](storyh1/h0/story_h006.html)／ [**[７話]**](storyh1/h0/story_h007.html)／ [**[８話]**](storyh1/h0/story_h008.html)／ [**[９話]**](storyh1/h0/story_h009.html)／ [**[10話]**](storyh1/h0/story_h010.html)／ NEW[**[11話]**](storyh1/h0/story_h011.html) |  新人君の  
+オープニングスタッフ |  [**[１話]**](storyh1/h0/story_h001)／ [**[２話]**](storyh1/h0/story_h002)／ [**[３話]**](storyh1/h0/story_h003)／ [**[４話]**](storyh1/h0/story_h004)／ [**[５話]**](storyh1/h0/story_h005)  
+[**[６話]**](storyh1/h0/story_h006)／ [**[７話]**](storyh1/h0/story_h007)／ [**[８話]**](storyh1/h0/story_h008)／ [**[９話]**](storyh1/h0/story_h009)／ [**[10話]**](storyh1/h0/story_h010)／ NEW[**[11話]**](storyh1/h0/story_h011) |  新人君の  
 成長物語  
   
 みなさまからのご意見、ご感想お待ちしております。宛先は[[こちら]](mailto:tonta@mbi.nifty.com)です。  
 また、**美少女着ぐるみを題材にしたお話** や**美少女着ぐるみを題材にしたイラスト** を作って頂ける方も同時に**募集** 致します。  
 是非皆様の考えた美少女着ぐるみフェチ物語や美少女着ぐるみイラストをご投稿ください。  
-投稿についての詳細は[[こちら]](sendstory.html)をご参照ください。  
-コンテンツ二次利用についてのお願いは[[こちら]](content_usage_caution.html)をご参照下さい。   
-  
-![](img/line01.gif)
-
-[[戻る]](main.html)  
----
+投稿についての詳細は[[こちら]](sendstory)をご参照ください。  
+コンテンツ二次利用についてのお願いは[[こちら]](content_usage_caution)をご参照下さい。   
+ 

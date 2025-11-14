@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_049.html"
+source: "intvarc/intvarc_049"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_051.html) | [[ 50 ]](intvarc_050.html) | [ 49 ] | [[ 48 ]](intvarc_048.html) | [[ 47 ]](intvarc_047.html) | [[ 46 ]](intvarc_046.html) | [[ 45 ]](intvarc_045.html) | [[ 44 ]](intvarc_044.html) | [[ 43 ]](intvarc_043.html) | [[ 42 ]](intvarc_042.html) | [[ 41 ]](intvarc_041.html) | [＞＞](intvarc_040.html) | [[戻る]](../theinterviews_index03.html)  
+| [＜＜](intvarc_051) | [[ 50 ]](intvarc_050) | [ 49 ] | [[ 48 ]](intvarc_048) | [[ 47 ]](intvarc_047) | [[ 46 ]](intvarc_046) | [[ 45 ]](intvarc_045) | [[ 44 ]](intvarc_044) | [[ 43 ]](intvarc_043) | [[ 42 ]](intvarc_042) | [[ 41 ]](intvarc_041) | [＞＞](intvarc_040) | [[戻る]](../theinterviews_index03)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **49** | **天使のドレスギミックが好きです。物理的に無理なのは分かってるんですが…外から見てわかんない（←ここ重要）上に、好きに楽しめる立場なのがうらやましい。続編予定とかありますでしょうか？**  
@@ -107,7 +107,7 @@ source: "intvarc/intvarc_049.html"
   
 と言う感じの回答でいかがでしょうか？  
   
-追記：このネタを少し広げてブログにも書いてみました。[ <http://insidedoll.dip.jp/blog/2012/04/post-124.html> ]と[ <http://insidedoll.dip.jp/blog/2012/04/post-125.html> ]も合わせてどうぞ。  
+追記：このネタを少し広げてブログにも書いてみました。[ <http://insidedoll.dip.jp/blog/2012/04/post-124> ]と[ <http://insidedoll.dip.jp/blog/2012/04/post-125> ]も合わせてどうぞ。  
   
 ---  
 2012-04-11 23:32:43  
@@ -116,5 +116,5 @@ source: "intvarc/intvarc_049.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index03.html)  
+[[戻る]](../theinterviews_index03)  
 ---

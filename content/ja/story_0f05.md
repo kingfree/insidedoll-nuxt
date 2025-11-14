@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0f05.html"
+source: "story_0f05"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **バスツアー（５話）** | [[戻る]](storyn1.html)  
-[[前へ]](story_0f04.html) [[次へ]](story_0f06.html)  
+| **バスツアー（５話）** | [[戻る]](storyn1)  
+[[前へ]](story_0f04) [[次へ]](story_0f06)  
 ---|---|---  
 |  |    
   
@@ -185,5 +182,5 @@ source: "story_0f05.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0f04.html) [[戻る]](storyn1.html) [[次へ]](story_0f06.html)  
+[[前へ]](story_0f04) [[戻る]](storyn1) [[次へ]](story_0f06)  
 ---

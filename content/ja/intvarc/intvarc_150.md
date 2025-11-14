@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_150.html"
+source: "intvarc/intvarc_150"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_151.html) | [ 150 ] | [[ 149 ]](intvarc_149.html) | [[ 148 ]](intvarc_148.html) | [[ 147 ]](intvarc_147.html) | [[ 146 ]](intvarc_146.html) | [[ 145 ]](intvarc_145.html) | [[ 144 ]](intvarc_144.html) | [[ 143 ]](intvarc_143.html) | [[ 142 ]](intvarc_142.html) | [[ 141 ]](intvarc_141.html) | [＞＞](intvarc_140.html) | [[戻る]](../theinterviews_index08.html)  
+| [＜＜](intvarc_151) | [ 150 ] | [[ 149 ]](intvarc_149) | [[ 148 ]](intvarc_148) | [[ 147 ]](intvarc_147) | [[ 146 ]](intvarc_146) | [[ 145 ]](intvarc_145) | [[ 144 ]](intvarc_144) | [[ 143 ]](intvarc_143) | [[ 142 ]](intvarc_142) | [[ 141 ]](intvarc_141) | [＞＞](intvarc_140) | [[戻る]](../theinterviews_index08)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **150** | **目の前の可愛い人形が知り合いと完全に分かっていても、目の前にいる可愛いお人形とちょっとづづ重ならなくなるのが外の人からは切ないですし、中からは楽しいですよね。例えば動くフィギュア人形になる場合で、外のインナースーツから友人が手伝っていて、ちゃんと服着替えるシーンも縮んでお人形状態になるシーンも友人が箱の中に入るのも見ててもお人形と中の人が重ならなくなっちゃうのはすごい羨ましいと思います。箱の中でこっちに手とか振られたらそれだけで嫉妬ですよ！ｗ**  
@@ -130,5 +130,5 @@ source: "intvarc/intvarc_150.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index08.html)  
+[[戻る]](../theinterviews_index08)  
 ---

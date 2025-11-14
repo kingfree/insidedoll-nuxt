@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_154.html"
+source: "intvarc/intvarc_154"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_161.html) | [[ 160 ]](intvarc_160.html) | [[ 159 ]](intvarc_159.html) | [[ 158 ]](intvarc_158.html) | [[ 157 ]](intvarc_157.html) | [[ 156 ]](intvarc_156.html) | [[ 155 ]](intvarc_155.html) | [ 154 ] | [[ 153 ]](intvarc_153.html) | [[ 152 ]](intvarc_152.html) | [[ 151 ]](intvarc_151.html) | [＞＞](intvarc_150.html) | [[戻る]](../theinterviews_index08.html)  
+| [＜＜](intvarc_161) | [[ 160 ]](intvarc_160) | [[ 159 ]](intvarc_159) | [[ 158 ]](intvarc_158) | [[ 157 ]](intvarc_157) | [[ 156 ]](intvarc_156) | [[ 155 ]](intvarc_155) | [ 154 ] | [[ 153 ]](intvarc_153) | [[ 152 ]](intvarc_152) | [[ 151 ]](intvarc_151) | [＞＞](intvarc_150) | [[戻る]](../theinterviews_index08)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **154** | **着ぐるみ麻雀とかどうですか？トップの人が「ハンデとして仕方なく」お人形姿になり、さらにトップをとっていくとビキニから制服、ドレスと重装備に…。勝てずに一人だけ人間のままの人も…**  
@@ -99,5 +99,5 @@ source: "intvarc/intvarc_154.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index08.html)  
+[[戻る]](../theinterviews_index08)  
 ---

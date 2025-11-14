@@ -1,12 +1,12 @@
 ---
 title: "Inside Doll"
-source: "story01/01/story_0101.html"
+source: "story01/01/story_0101"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **私の理想の着ぐるみ(その１)** | [[戻る]](../../story01.html)  
+| **私の理想の着ぐるみ(その１)** | [[戻る]](../../story01)  
 ---|---|---  
 |  | ＜前置き＞  
 これは実際に存在する着ぐるみではなく、完全に私の妄想です。一部ＳＦ的な事になってますが、まぁ妄想と言うことで、こんな変な事考えてるヤツもいるんだと大目に見て下さい。  
@@ -310,5 +310,5 @@ source: "story01/01/story_0101.html"
   
 ![](../../img/line01.gif)
 
-[[戻る]](../../story01.html)  
+[[戻る]](../../story01)  
 ---

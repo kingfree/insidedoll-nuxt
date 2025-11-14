@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_n902.html"
+source: "story_n902"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **ネコしっぽカフェ（２話）** | [[戻る]](storyn1.html)  
-[[前へ]](story_n901.html)  
+| **ネコしっぽカフェ（２話）** | [[戻る]](storyn1)  
+[[前へ]](story_n901)  
 ---|---|---  
 |  |    
   
@@ -246,5 +243,5 @@ source: "story_n902.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_n901.html) [[戻る]](storyn1.html)  
+[[前へ]](story_n901) [[戻る]](storyn1)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_067.html"
+source: "intvarc/intvarc_067"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_071.html) | [[ 70 ]](intvarc_070.html) | [[ 69 ]](intvarc_069.html) | [[ 68 ]](intvarc_068.html) | [ 67 ] | [[ 66 ]](intvarc_066.html) | [[ 65 ]](intvarc_065.html) | [[ 64 ]](intvarc_064.html) | [[ 63 ]](intvarc_063.html) | [[ 62 ]](intvarc_062.html) | [[ 61 ]](intvarc_061.html) | [＞＞](intvarc_060.html) | [[戻る]](../theinterviews_index04.html)  
+| [＜＜](intvarc_071) | [[ 70 ]](intvarc_070) | [[ 69 ]](intvarc_069) | [[ 68 ]](intvarc_068) | [ 67 ] | [[ 66 ]](intvarc_066) | [[ 65 ]](intvarc_065) | [[ 64 ]](intvarc_064) | [[ 63 ]](intvarc_063) | [[ 62 ]](intvarc_062) | [[ 61 ]](intvarc_061) | [＞＞](intvarc_060) | [[戻る]](../theinterviews_index04)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **67** | **スマイルプリキュアのみなさん、ひらひらスカートにスパッツ穿いてて苦しそうだと思いませんか？**  
@@ -22,7 +22,7 @@ source: "intvarc/intvarc_067.html"
   
 以下、ブログ記事へのリンクです。  
   
-「[もしもスマイルプリキュアのショーがInsideDoll型着ぐるみだったら](http://insidedoll.dip.jp/blog/2012/06/insidedoll-1.html)」  
+「[もしもスマイルプリキュアのショーがInsideDoll型着ぐるみだったら](http://insidedoll.dip.jp/blog/2012/06/insidedoll-1)」  
   
   
 それでは、また質問お待ちしております。  
@@ -34,5 +34,5 @@ source: "intvarc/intvarc_067.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index04.html)  
+[[戻る]](../theinterviews_index04)  
 ---

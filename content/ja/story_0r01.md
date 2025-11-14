@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0r01.html"
+source: "story_0r01"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **夏のお出かけ（１話）** | [[戻る]](story01.html)  
-[[次へ]](story_0r02.html)  
+| **夏のお出かけ（１話）** | [[戻る]](story01)  
+[[次へ]](story_0r02)  
 ---|---|---  
 |  |    
   
@@ -308,5 +305,5 @@ source: "story_0r01.html"
   
 ![](img/line01.gif)
 
-[[戻る]](story01.html) [[次へ]](story_0r02.html)  
+[[戻る]](story01) [[次へ]](story_0r02)  
 ---

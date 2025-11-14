@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_066.html"
+source: "intvarc/intvarc_066"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_071.html) | [[ 70 ]](intvarc_070.html) | [[ 69 ]](intvarc_069.html) | [[ 68 ]](intvarc_068.html) | [[ 67 ]](intvarc_067.html) | [ 66 ] | [[ 65 ]](intvarc_065.html) | [[ 64 ]](intvarc_064.html) | [[ 63 ]](intvarc_063.html) | [[ 62 ]](intvarc_062.html) | [[ 61 ]](intvarc_061.html) | [＞＞](intvarc_060.html) | [[戻る]](../theinterviews_index04.html)  
+| [＜＜](intvarc_071) | [[ 70 ]](intvarc_070) | [[ 69 ]](intvarc_069) | [[ 68 ]](intvarc_068) | [[ 67 ]](intvarc_067) | [ 66 ] | [[ 65 ]](intvarc_065) | [[ 64 ]](intvarc_064) | [[ 63 ]](intvarc_063) | [[ 62 ]](intvarc_062) | [[ 61 ]](intvarc_061) | [＞＞](intvarc_060) | [[戻る]](../theinterviews_index04)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **66** | **ホビーショップに女性ロボット型着ぐるみは登場しないのですか？より人形っぽいと思いますが・・**  
@@ -18,7 +18,7 @@ source: "intvarc/intvarc_066.html"
   
 女性ロボット型ですね。  
   
-アンドロイド、と言う発想であれば、実は結構以前に[[こちらのブログ](http://insidedoll.dip.jp/blog/2010/06/post-4.html)]の方に、計画だけは書いています。  
+アンドロイド、と言う発想であれば、実は結構以前に[[こちらのブログ](http://insidedoll.dip.jp/blog/2010/06/post-4)]の方に、計画だけは書いています。  
   
   
 そして、この部分の基本は今でも変わっていません。  
@@ -89,5 +89,5 @@ source: "intvarc/intvarc_066.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index04.html)  
+[[戻る]](../theinterviews_index04)  
 ---

@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0n03.html"
+source: "story_0n03"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **着ぐるみに続く道（３話）** | [[戻る]](storyn1.html)  
-[[前へ]](story_0n02.html)  
+| **着ぐるみに続く道（３話）** | [[戻る]](storyn1)  
+[[前へ]](story_0n02)  
 ---|---|---  
 |  |    
   
@@ -249,5 +246,5 @@ source: "story_0n03.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0n02.html) [[戻る]](storyn1.html)  
+[[前へ]](story_0n02) [[戻る]](storyn1)  
 ---

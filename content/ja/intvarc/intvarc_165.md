@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_165.html"
+source: "intvarc/intvarc_165"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_171.html) | [[ 170 ]](intvarc_170.html) | [[ 169 ]](intvarc_169.html) | [[ 168 ]](intvarc_168.html) | [[ 167 ]](intvarc_167.html) | [[ 166 ]](intvarc_166.html) | [ 165 ] | [[ 164 ]](intvarc_164.html) | [[ 163 ]](intvarc_163.html) | [[ 162 ]](intvarc_162.html) | [[ 161 ]](intvarc_161.html) | [＞＞](intvarc_160.html) | [[戻る]](../theinterviews_index09.html)  
+| [＜＜](intvarc_171) | [[ 170 ]](intvarc_170) | [[ 169 ]](intvarc_169) | [[ 168 ]](intvarc_168) | [[ 167 ]](intvarc_167) | [[ 166 ]](intvarc_166) | [ 165 ] | [[ 164 ]](intvarc_164) | [[ 163 ]](intvarc_163) | [[ 162 ]](intvarc_162) | [[ 161 ]](intvarc_161) | [＞＞](intvarc_160) | [[戻る]](../theinterviews_index09)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **165** | **このサイトの本筋とは外れますが「布に化けると言う話」面白いですね。たたまれると言う点にもゾクゾクします。 目の前で布化するのを見せ付けてから、あえて小さくたたまれて何かに入れて運んで貰えるとより羨ましいですよね。**  
@@ -66,5 +66,5 @@ source: "intvarc/intvarc_165.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index09.html)  
+[[戻る]](../theinterviews_index09)  
 ---

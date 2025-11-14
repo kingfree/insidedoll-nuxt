@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0a31.html"
+source: "story_0a31"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **お嬢様物語：Ｋ・始動（２話）** | [[戻る]](story01.html)  
-[[前へ]](story_0a30.html) [[次へ]](story_0a32.html)  
+| **お嬢様物語：Ｋ・始動（２話）** | [[戻る]](story01)  
+[[前へ]](story_0a30) [[次へ]](story_0a32)  
 ---|---|---  
 |  |    
   
@@ -216,5 +213,5 @@ source: "story_0a31.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0a30.html) [[戻る]](story01.html) [[次へ]](story_0a32.html)  
+[[前へ]](story_0a30) [[戻る]](story01) [[次へ]](story_0a32)  
 ---

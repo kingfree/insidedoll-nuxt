@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_152.html"
+source: "intvarc/intvarc_152"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_161.html) | [[ 160 ]](intvarc_160.html) | [[ 159 ]](intvarc_159.html) | [[ 158 ]](intvarc_158.html) | [[ 157 ]](intvarc_157.html) | [[ 156 ]](intvarc_156.html) | [[ 155 ]](intvarc_155.html) | [[ 154 ]](intvarc_154.html) | [[ 153 ]](intvarc_153.html) | [ 152 ] | [[ 151 ]](intvarc_151.html) | [＞＞](intvarc_150.html) | [[戻る]](../theinterviews_index08.html)  
+| [＜＜](intvarc_161) | [[ 160 ]](intvarc_160) | [[ 159 ]](intvarc_159) | [[ 158 ]](intvarc_158) | [[ 157 ]](intvarc_157) | [[ 156 ]](intvarc_156) | [[ 155 ]](intvarc_155) | [[ 154 ]](intvarc_154) | [[ 153 ]](intvarc_153) | [ 152 ] | [[ 151 ]](intvarc_151) | [＞＞](intvarc_150) | [[戻る]](../theinterviews_index08)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **152** | **InsideDollに登場する着ぐるみにも何種類かありますが、とん太さんは「喋らない着ぐるみ」と「喋れる着ぐるみ」と「外の声優さんの声に合わせた動きをしなければならない着ぐるみ」の、どれが一番お好きなのでしょうか？**  
@@ -98,5 +98,5 @@ source: "intvarc/intvarc_152.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index08.html)  
+[[戻る]](../theinterviews_index08)  
 ---

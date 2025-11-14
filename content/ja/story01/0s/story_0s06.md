@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0s/story_0s06.html"
+source: "story01/0s/story_0s06"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **アイの秘密と嫉妬心（６話）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0s05.html) [[次へ]](story_0s07.html)  
+| **アイの秘密と嫉妬心（６話）** | [[戻る]](../../story01)  
+[[前へ]](story_0s05) [[次へ]](story_0s07)  
 ---|---|---  
 |  |    
   
@@ -284,5 +284,5 @@ ai-Doll達ってもっと厚手のタイツに、スカートだって長い子�
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0s05.html) [[戻る]](../../story01.html) [[次へ]](story_0s07.html)  
+[[前へ]](story_0s05) [[戻る]](../../story01) [[次へ]](story_0s07)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_115.html"
+source: "intvarc/intvarc_115"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_121.html) | [[ 120 ]](intvarc_120.html) | [[ 119 ]](intvarc_119.html) | [[ 118 ]](intvarc_118.html) | [[ 117 ]](intvarc_117.html) | [[ 116 ]](intvarc_116.html) | [ 115 ] | [[ 114 ]](intvarc_114.html) | [[ 113 ]](intvarc_113.html) | [[ 112 ]](intvarc_112.html) | [[ 111 ]](intvarc_111.html) | [＞＞](intvarc_110.html) | [[戻る]](../theinterviews_index06.html)  
+| [＜＜](intvarc_121) | [[ 120 ]](intvarc_120) | [[ 119 ]](intvarc_119) | [[ 118 ]](intvarc_118) | [[ 117 ]](intvarc_117) | [[ 116 ]](intvarc_116) | [ 115 ] | [[ 114 ]](intvarc_114) | [[ 113 ]](intvarc_113) | [[ 112 ]](intvarc_112) | [[ 111 ]](intvarc_111) | [＞＞](intvarc_110) | [[戻る]](../theinterviews_index06)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **115** | **insidedollの着ぐるみ達は表情読まれないから、大事な所を触られない限りは上位に立てて玩べますから中の人は楽しいですよね。ここで一歩改良してみて大事な所触られてもふにふに柔らかく、外からは大事な物の確認が出来ない様に改良したら更に楽しいと思いませんか？布になれる着ぐるみもありますし、insidedollなら出来るかも？**  
@@ -88,5 +88,5 @@ source: "intvarc/intvarc_115.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index06.html)  
+[[戻る]](../theinterviews_index06)  
 ---

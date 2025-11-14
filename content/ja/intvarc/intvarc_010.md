@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_010.html"
+source: "intvarc/intvarc_010"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_011.html) | [ 10 ] | [[ 9 ]](intvarc_009.html) | [[ 8 ]](intvarc_008.html) | [[ 7 ]](intvarc_007.html) | [[ 6 ]](intvarc_006.html) | [[ 5 ]](intvarc_005.html) | [[ 4 ]](intvarc_004.html) | [[ 3 ]](intvarc_003.html) | [[ 2 ]](intvarc_002.html) | [[ 1 ]](intvarc_001.html) | ＞＞ | [[戻る]](../theinterviews_index01.html)  
+| [＜＜](intvarc_011) | [ 10 ] | [[ 9 ]](intvarc_009) | [[ 8 ]](intvarc_008) | [[ 7 ]](intvarc_007) | [[ 6 ]](intvarc_006) | [[ 5 ]](intvarc_005) | [[ 4 ]](intvarc_004) | [[ 3 ]](intvarc_003) | [[ 2 ]](intvarc_002) | [[ 1 ]](intvarc_001) | ＞＞ | [[戻る]](../theinterviews_index01)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **10** | **DollClubにはお口で処理してくれたりするオプションはないのですか？**  
@@ -62,7 +62,7 @@ source: "intvarc/intvarc_010.html"
 これなら中の人が口内を操作できても、口内を悪戯されても中の人には影響が無い、一方通行な仕組みが出来上がるわけです。  
 ほら、なんとなく私の好みになって来ました。  
   
-この辺りの仕組みは実はもうちょっと細かく考えていて、そこら辺を含めてブログ( <http://insidedoll.dip.jp/blog/2011/12/post-108.html> )に記事として掲載してみましたので、細かくはそちらを参照下さい。  
+この辺りの仕組みは実はもうちょっと細かく考えていて、そこら辺を含めてブログ( <http://insidedoll.dip.jp/blog/2011/12/post-108> )に記事として掲載してみましたので、細かくはそちらを参照下さい。  
   
 と言う感じですねー。ではでは。  
   
@@ -73,5 +73,5 @@ source: "intvarc/intvarc_010.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index01.html)  
+[[戻る]](../theinterviews_index01)  
 ---

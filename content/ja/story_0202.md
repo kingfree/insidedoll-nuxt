@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0202.html"
+source: "story_0202"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **サヤカの秘密(２章)** | [[戻る]](story01.html)  
-[[前へ]](story_0201.html) [[次へ]](story_0203.html)  
+| **サヤカの秘密(２章)** | [[戻る]](story01)  
+[[前へ]](story_0201) [[次へ]](story_0203)  
 ---|---|---  
 |  |   
 翌日から、学校帰りにはサヤカの練習の為、美由紀の家に通う事が日常化していた。  
@@ -602,5 +599,5 @@ source: "story_0202.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0201.html) [[戻る]](story01.html) [[次へ]](story_0203.html)  
+[[前へ]](story_0201) [[戻る]](story01) [[次へ]](story_0203)  
 ---

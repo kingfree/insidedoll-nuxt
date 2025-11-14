@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/05/story_0502.html"
+source: "story01/05/story_0502"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **友達？彼女？それとも・・・(２章)** | [[戻る]](../../story01.html)  
-[[前へ]](story_0501.html) [[次へ]](story_0503.html)  
+| **友達？彼女？それとも・・・(２章)** | [[戻る]](../../story01)  
+[[前へ]](story_0501) [[次へ]](story_0503)  
 ---|---|---  
 |  |   
 翌日から、和志と真一は、なんとなくぎくしゃくして口数も少なくなくなっていた。  
@@ -273,5 +273,5 @@ source: "story01/05/story_0502.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0501.html) [[戻る]](../../story01.html) [[次へ]](story_0503.html)  
+[[前へ]](story_0501) [[戻る]](../../story01) [[次へ]](story_0503)  
 ---

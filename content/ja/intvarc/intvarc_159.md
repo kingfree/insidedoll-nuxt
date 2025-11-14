@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_159.html"
+source: "intvarc/intvarc_159"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_161.html) | [[ 160 ]](intvarc_160.html) | [ 159 ] | [[ 158 ]](intvarc_158.html) | [[ 157 ]](intvarc_157.html) | [[ 156 ]](intvarc_156.html) | [[ 155 ]](intvarc_155.html) | [[ 154 ]](intvarc_154.html) | [[ 153 ]](intvarc_153.html) | [[ 152 ]](intvarc_152.html) | [[ 151 ]](intvarc_151.html) | [＞＞](intvarc_150.html) | [[戻る]](../theinterviews_index08.html)  
+| [＜＜](intvarc_161) | [[ 160 ]](intvarc_160) | [ 159 ] | [[ 158 ]](intvarc_158) | [[ 157 ]](intvarc_157) | [[ 156 ]](intvarc_156) | [[ 155 ]](intvarc_155) | [[ 154 ]](intvarc_154) | [[ 153 ]](intvarc_153) | [[ 152 ]](intvarc_152) | [[ 151 ]](intvarc_151) | [＞＞](intvarc_150) | [[戻る]](../theinterviews_index08)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **159** | **とん太さんはpixivで小説書かないのですか？htmlいじるより楽ですし、絵師からのイメレスで挿し絵がもらえるかもしれませんよ？**  
@@ -35,5 +35,5 @@ pixivへの投稿が嫌だとかそういう事では無く、単に検討した
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index08.html)  
+[[戻る]](../theinterviews_index08)  
 ---

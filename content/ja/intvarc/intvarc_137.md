@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_137.html"
+source: "intvarc/intvarc_137"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_141.html) | [[ 140 ]](intvarc_140.html) | [[ 139 ]](intvarc_139.html) | [[ 138 ]](intvarc_138.html) | [ 137 ] | [[ 136 ]](intvarc_136.html) | [[ 135 ]](intvarc_135.html) | [[ 134 ]](intvarc_134.html) | [[ 133 ]](intvarc_133.html) | [[ 132 ]](intvarc_132.html) | [[ 131 ]](intvarc_131.html) | [＞＞](intvarc_130.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_141) | [[ 140 ]](intvarc_140) | [[ 139 ]](intvarc_139) | [[ 138 ]](intvarc_138) | [ 137 ] | [[ 136 ]](intvarc_136) | [[ 135 ]](intvarc_135) | [[ 134 ]](intvarc_134) | [[ 133 ]](intvarc_133) | [[ 132 ]](intvarc_132) | [[ 131 ]](intvarc_131) | [＞＞](intvarc_130) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **137** | **新人君が尻尾持ちのキャラクターに入ったとします。本来、しっぽを巻きこんで座ってはならないのにもかかわらず、巻き込んで座ってしまった、しかも、座り直しがちょっと不自然に見える状況の場合、中の人は計り知れない締め付けで、状況によってはイキっぱなしになっちゃうんですか？？**  
@@ -78,5 +78,5 @@ source: "intvarc/intvarc_137.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

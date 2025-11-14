@@ -1,12 +1,9 @@
 ---
 title: "Inside Doll"
-source: "story_0s01.html"
+source: "story_0s01"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **アイの秘密と嫉妬心（１話）** | [[戻る]](story01.html)  
+| **アイの秘密と嫉妬心（１話）** | [[戻る]](story01)  
   
 ---|---|---  
 |  |    
@@ -222,5 +219,5 @@ source: "story_0s01.html"
   
 ![](img/line01.gif)
 
-[[戻る]](story01.html) [[次へ]](story_0s02.html)  
+[[戻る]](story01) [[次へ]](story_0s02)  
 ---

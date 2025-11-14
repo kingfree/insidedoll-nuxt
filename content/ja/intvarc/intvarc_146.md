@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_146.html"
+source: "intvarc/intvarc_146"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_151.html) | [[ 150 ]](intvarc_150.html) | [[ 149 ]](intvarc_149.html) | [[ 148 ]](intvarc_148.html) | [[ 147 ]](intvarc_147.html) | [ 146 ] | [[ 145 ]](intvarc_145.html) | [[ 144 ]](intvarc_144.html) | [[ 143 ]](intvarc_143.html) | [[ 142 ]](intvarc_142.html) | [[ 141 ]](intvarc_141.html) | [＞＞](intvarc_140.html) | [[戻る]](../theinterviews_index08.html)  
+| [＜＜](intvarc_151) | [[ 150 ]](intvarc_150) | [[ 149 ]](intvarc_149) | [[ 148 ]](intvarc_148) | [[ 147 ]](intvarc_147) | [ 146 ] | [[ 145 ]](intvarc_145) | [[ 144 ]](intvarc_144) | [[ 143 ]](intvarc_143) | [[ 142 ]](intvarc_142) | [[ 141 ]](intvarc_141) | [＞＞](intvarc_140) | [[戻る]](../theinterviews_index08)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **146** | **着ぐるみショーの後、楽屋でMCのお姉さんとふたりっきりになってしまっていろいろいたずらされたくないですか？MCのお姉さんも着ぐるみや中の人のことは知ってるけど、自分で着るよりお人形さんを愛でる方が好きなちょいSタイプで・・・**  
@@ -61,5 +61,5 @@ source: "intvarc/intvarc_146.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index08.html)  
+[[戻る]](../theinterviews_index08)  
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0x/story_0x06.html"
+source: "story01/0x/story_0x06"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **事実は小説より奇なり（６話）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0x05.html) [[次へ]](story_0x07.html)  
+| **事実は小説より奇なり（６話）** | [[戻る]](../../story01)  
+[[前へ]](story_0x05) [[次へ]](story_0x07)  
 ---|---|---  
 |  |    
   
@@ -246,5 +246,5 @@ source: "story01/0x/story_0x06.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0x05.html) [[戻る]](../../story01.html) [[次へ]](story_0x07.html)  
+[[前へ]](story_0x05) [[戻る]](../../story01) [[次へ]](story_0x07)  
 ---

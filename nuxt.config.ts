@@ -14,5 +14,13 @@ export default defineNuxtConfig({
     ],
     strategy: 'prefix_except_default',
     defaultLocale: 'ja',
+  },
+  content: {
+    markdown: {
+      toc: {
+        depth: 3,
+        searchDepth: 3
+      }
+    }
   }
 })

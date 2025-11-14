@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0g11.html"
+source: "story_0g11"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **１年４組・横川雪江さんの話（１話）** | [[戻る]](storyg1.html)  
-[[次へ]](story_0g12.html)  
+| **１年４組・横川雪江さんの話（１話）** | [[戻る]](storyg1)  
+[[次へ]](story_0g12)  
 ---|---|---  
 |  |    
   
@@ -162,5 +159,5 @@ source: "story_0g11.html"
   
 ![](img/line01.gif)
 
-[[戻る]](storyg1.html) [[次へ]](story_0g12.html)  
+[[戻る]](storyg1) [[次へ]](story_0g12)  
 ---

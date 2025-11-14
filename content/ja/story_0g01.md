@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0g01.html"
+source: "story_0g01"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **１年２組・船越光男君の日記（１話）** | [[戻る]](storyg1.html)  
-[[次へ]](story_0g02.html)  
+| **１年２組・船越光男君の日記（１話）** | [[戻る]](storyg1)  
+[[次へ]](story_0g02)  
 ---|---|---  
 |  |    
   
@@ -206,5 +203,5 @@ source: "story_0g01.html"
   
 ![](img/line01.gif)
 
-[[次へ]](story_0g02.html) [[戻る]](storyg1.html)  
+[[次へ]](story_0g02) [[戻る]](storyg1)  
 ---

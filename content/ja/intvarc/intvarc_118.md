@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_118.html"
+source: "intvarc/intvarc_118"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_121.html) | [[ 120 ]](intvarc_120.html) | [[ 119 ]](intvarc_119.html) | [ 118 ] | [[ 117 ]](intvarc_117.html) | [[ 116 ]](intvarc_116.html) | [[ 115 ]](intvarc_115.html) | [[ 114 ]](intvarc_114.html) | [[ 113 ]](intvarc_113.html) | [[ 112 ]](intvarc_112.html) | [[ 111 ]](intvarc_111.html) | [＞＞](intvarc_110.html) | [[戻る]](../theinterviews_index06.html)  
+| [＜＜](intvarc_121) | [[ 120 ]](intvarc_120) | [[ 119 ]](intvarc_119) | [ 118 ] | [[ 117 ]](intvarc_117) | [[ 116 ]](intvarc_116) | [[ 115 ]](intvarc_115) | [[ 114 ]](intvarc_114) | [[ 113 ]](intvarc_113) | [[ 112 ]](intvarc_112) | [[ 111 ]](intvarc_111) | [＞＞](intvarc_110) | [[戻る]](../theinterviews_index06)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **118** | **真夏の海水浴場で美少女イメージキャラクターのライブとかグリーティングとかどうですか？？**  
@@ -126,5 +126,5 @@ source: "intvarc/intvarc_118.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index06.html)  
+[[戻る]](../theinterviews_index06)  
 ---

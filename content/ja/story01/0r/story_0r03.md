@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0r/story_0r03.html"
+source: "story01/0r/story_0r03"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **夏のお出かけ（３話）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0r02.html)  
+| **夏のお出かけ（３話）** | [[戻る]](../../story01)  
+[[前へ]](story_0r02)  
 ---|---|---  
 |  |    
   
@@ -339,5 +339,5 @@ source: "story01/0r/story_0r03.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0r02.html) [[戻る]](../../story01.html)  
+[[前へ]](story_0r02) [[戻る]](../../story01)  
 ---

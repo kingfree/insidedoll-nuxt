@@ -1,12 +1,12 @@
 ---
 title: "Inside Doll"
-source: "story01/0b/story_0b01.html"
+source: "story01/0b/story_0b01"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **ライブチャット（5月16日のライブ）** | [[戻る]](../../story01.html)  
+| **ライブチャット（5月16日のライブ）** | [[戻る]](../../story01)  
   
 ---|---|---  
 |  |    
@@ -306,5 +306,5 @@ DollClubと呼ばれる謎の風俗店の存在が噂になったのは今から
   
 ![](../../img/line01.gif)
 
-[[戻る]](../../story01.html)  
+[[戻る]](../../story01)  
 ---

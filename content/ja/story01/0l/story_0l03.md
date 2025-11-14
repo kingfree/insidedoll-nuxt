@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0l/story_0l03.html"
+source: "story01/0l/story_0l03"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **梱包試験（３話）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0l02.html)  
+| **梱包試験（３話）** | [[戻る]](../../story01)  
+[[前へ]](story_0l02)  
 ---|---|---  
 |  |    
   
@@ -299,5 +299,5 @@ source: "story01/0l/story_0l03.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0l02.html) [[戻る]](../../story01.html)  
+[[前へ]](story_0l02) [[戻る]](../../story01)  
 ---

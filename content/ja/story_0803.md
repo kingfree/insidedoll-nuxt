@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0803.html"
+source: "story_0803"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **ＤｏｌｌＣｌｕｂ～ここだけの話し～（３章）** | [[戻る]](story01.html)  
-[[前へ]](story_0802.html) [[次へ]](story_0804.html)  
+| **ＤｏｌｌＣｌｕｂ～ここだけの話し～（３章）** | [[戻る]](story01)  
+[[前へ]](story_0802) [[次へ]](story_0804)  
 ---|---|---  
 |  |    
   
@@ -136,5 +133,5 @@ source: "story_0803.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0802.html) [[戻る]](story01.html) [[次へ]](story_0804.html)  
+[[前へ]](story_0802) [[戻る]](story01) [[次へ]](story_0804)  
 ---

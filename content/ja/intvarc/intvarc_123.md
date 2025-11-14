@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_123.html"
+source: "intvarc/intvarc_123"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_131.html) | [[ 130 ]](intvarc_130.html) | [[ 129 ]](intvarc_129.html) | [[ 128 ]](intvarc_128.html) | [[ 127 ]](intvarc_127.html) | [[ 126 ]](intvarc_126.html) | [[ 125 ]](intvarc_125.html) | [[ 124 ]](intvarc_124.html) | [ 123 ] | [[ 122 ]](intvarc_122.html) | [[ 121 ]](intvarc_121.html) | [＞＞](intvarc_120.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_131) | [[ 130 ]](intvarc_130) | [[ 129 ]](intvarc_129) | [[ 128 ]](intvarc_128) | [[ 127 ]](intvarc_127) | [[ 126 ]](intvarc_126) | [[ 125 ]](intvarc_125) | [[ 124 ]](intvarc_124) | [ 123 ] | [[ 122 ]](intvarc_122) | [[ 121 ]](intvarc_121) | [＞＞](intvarc_120) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **123** | **サキュバスなど、色っぽく扇情的な衣装と演技で殿方を誘惑する役をやってみたくないですか？**  
@@ -56,5 +56,5 @@ source: "intvarc/intvarc_123.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_120.html"
+source: "intvarc/intvarc_120"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_121.html) | [ 120 ] | [[ 119 ]](intvarc_119.html) | [[ 118 ]](intvarc_118.html) | [[ 117 ]](intvarc_117.html) | [[ 116 ]](intvarc_116.html) | [[ 115 ]](intvarc_115.html) | [[ 114 ]](intvarc_114.html) | [[ 113 ]](intvarc_113.html) | [[ 112 ]](intvarc_112.html) | [[ 111 ]](intvarc_111.html) | [＞＞](intvarc_110.html) | [[戻る]](../theinterviews_index06.html)  
+| [＜＜](intvarc_121) | [ 120 ] | [[ 119 ]](intvarc_119) | [[ 118 ]](intvarc_118) | [[ 117 ]](intvarc_117) | [[ 116 ]](intvarc_116) | [[ 115 ]](intvarc_115) | [[ 114 ]](intvarc_114) | [[ 113 ]](intvarc_113) | [[ 112 ]](intvarc_112) | [[ 111 ]](intvarc_111) | [＞＞](intvarc_110) | [[戻る]](../theinterviews_index06)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **120** | **シャンプーの香りだけでなく、女の子のふわっと甘いフェロモンの香りをさせる着ぐるみがあったらよくないですか？ もちろん中の人もずっとその香りの中で悶々とするわけで。女性器まで装備していたらさらに…**  
@@ -46,5 +46,5 @@ source: "intvarc/intvarc_120.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index06.html)  
+[[戻る]](../theinterviews_index06)  
 ---

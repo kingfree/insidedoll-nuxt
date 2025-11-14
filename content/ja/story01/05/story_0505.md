@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/05/story_0505.html"
+source: "story01/05/story_0505"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **友達？彼女？それとも・・・(５章)** | [[戻る]](../../story01.html)  
-[[前へ]](story_0504.html) [[次へ]](story_0506.html)  
+| **友達？彼女？それとも・・・(５章)** | [[戻る]](../../story01)  
+[[前へ]](story_0504) [[次へ]](story_0506)  
 ---|---|---  
 |  |   
   
@@ -276,5 +276,5 @@ source: "story01/05/story_0505.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0504.html) [[戻る]](../../story01.html) [[次へ]](story_0506.html)  
+[[前へ]](story_0504) [[戻る]](../../story01) [[次へ]](story_0506)  
 ---

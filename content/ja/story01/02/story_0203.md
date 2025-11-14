@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/02/story_0203.html"
+source: "story01/02/story_0203"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **サヤカの秘密(３章)** | [[戻る]](../../story01.html)  
-[[前へ]](story_0202.html)  
+| **サヤカの秘密(３章)** | [[戻る]](../../story01)  
+[[前へ]](story_0202)  
 ---|---|---  
 |  |   
 「くそっ。帰っちまった。京子のサユリも結構良かったのになぁ。まぁもうそろそろ寝る時間だし、明日は返さないといけないから、そろそろ返す準備はしておかなきゃな。」  
@@ -295,5 +295,5 @@ source: "story01/02/story_0203.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0202.html) [[戻る]](../../story01.html)  
+[[前へ]](story_0202) [[戻る]](../../story01)  
 ---

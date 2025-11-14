@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_143.html"
+source: "intvarc/intvarc_143"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_151.html) | [[ 150 ]](intvarc_150.html) | [[ 149 ]](intvarc_149.html) | [[ 148 ]](intvarc_148.html) | [[ 147 ]](intvarc_147.html) | [[ 146 ]](intvarc_146.html) | [[ 145 ]](intvarc_145.html) | [[ 144 ]](intvarc_144.html) | [ 143 ] | [[ 142 ]](intvarc_142.html) | [[ 141 ]](intvarc_141.html) | [＞＞](intvarc_140.html) | [[戻る]](../theinterviews_index08.html)  
+| [＜＜](intvarc_151) | [[ 150 ]](intvarc_150) | [[ 149 ]](intvarc_149) | [[ 148 ]](intvarc_148) | [[ 147 ]](intvarc_147) | [[ 146 ]](intvarc_146) | [[ 145 ]](intvarc_145) | [[ 144 ]](intvarc_144) | [ 143 ] | [[ 142 ]](intvarc_142) | [[ 141 ]](intvarc_141) | [＞＞](intvarc_140) | [[戻る]](../theinterviews_index08)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **143** | **そういえばホビー21で、１人の役者さんが１日に複数のキャラクターを演じることはないのでしょうか？ （始めは子供で出て、次にお姉さんキャラでグリーディングする・・・等）**  
@@ -96,5 +96,5 @@ source: "intvarc/intvarc_143.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index08.html)  
+[[戻る]](../theinterviews_index08)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_177.html"
+source: "intvarc/intvarc_177"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| \---- | [ --- ] | [ --- ] | [[ 178 ]](intvarc_178.html) | [ 177 ] | [[ 176 ]](intvarc_176.html) | [[ 175 ]](intvarc_175.html) | [[ 174 ]](intvarc_174.html) | [[ 173 ]](intvarc_173.html) | [[ 172 ]](intvarc_172.html) | [[ 171 ]](intvarc_171.html) | [＞＞](intvarc_170.html) | [[戻る]](../theinterviews_index09.html)  
+| \---- | [ --- ] | [ --- ] | [[ 178 ]](intvarc_178) | [ 177 ] | [[ 176 ]](intvarc_176) | [[ 175 ]](intvarc_175) | [[ 174 ]](intvarc_174) | [[ 173 ]](intvarc_173) | [[ 172 ]](intvarc_172) | [[ 171 ]](intvarc_171) | [＞＞](intvarc_170) | [[戻る]](../theinterviews_index09)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **177** | **もし超長時間着用技術があって、例えば半年間ずっとお人形姿でいたとしたら、だんだん人間だったころを忘れてしまいそうですよね？**  
@@ -50,5 +50,5 @@ source: "intvarc/intvarc_177.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index09.html)  
+[[戻る]](../theinterviews_index09)  
 ---

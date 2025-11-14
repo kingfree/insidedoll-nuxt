@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_155.html"
+source: "intvarc/intvarc_155"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_161.html) | [[ 160 ]](intvarc_160.html) | [[ 159 ]](intvarc_159.html) | [[ 158 ]](intvarc_158.html) | [[ 157 ]](intvarc_157.html) | [[ 156 ]](intvarc_156.html) | [ 155 ] | [[ 154 ]](intvarc_154.html) | [[ 153 ]](intvarc_153.html) | [[ 152 ]](intvarc_152.html) | [[ 151 ]](intvarc_151.html) | [＞＞](intvarc_150.html) | [[戻る]](../theinterviews_index08.html)  
+| [＜＜](intvarc_161) | [[ 160 ]](intvarc_160) | [[ 159 ]](intvarc_159) | [[ 158 ]](intvarc_158) | [[ 157 ]](intvarc_157) | [[ 156 ]](intvarc_156) | [ 155 ] | [[ 154 ]](intvarc_154) | [[ 153 ]](intvarc_153) | [[ 152 ]](intvarc_152) | [[ 151 ]](intvarc_151) | [＞＞](intvarc_150) | [[戻る]](../theinterviews_index08)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **155** | **ホビー21の着ぐるみ美少女と夏デートしたいです！車で爽やかな高原をドライブ、海辺で水着で散歩、夜花火見ながらイチャイチャとか**  
@@ -20,7 +20,7 @@ source: "intvarc/intvarc_155.html"
   
 以下、ブログ記事へのリンクです。  
   
-[「ホビー21の着ぐるみ美少女と夏デートしたいです！」](http://insidedoll.dip.jp/blog/2013/08/21.html)  
+[「ホビー21の着ぐるみ美少女と夏デートしたいです！」](http://insidedoll.dip.jp/blog/2013/08/21)  
   
   
 それでは、また質問お待ちしております。  
@@ -32,5 +32,5 @@ source: "intvarc/intvarc_155.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index08.html)  
+[[戻る]](../theinterviews_index08)  
 ---

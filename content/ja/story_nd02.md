@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_nd02.html"
+source: "story_nd02"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **成田君最大の受難？（２話）** | [[戻る]](storyn1.html)  
-[[前へ]](story_nd01.html) [[次へ]](story_nd03.html)  
+| **成田君最大の受難？（２話）** | [[戻る]](storyn1)  
+[[前へ]](story_nd01) [[次へ]](story_nd03)  
 ---|---|---  
 |  |    
   
@@ -225,5 +222,5 @@ source: "story_nd02.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_nd01.html) [[戻る]](storyn1.html) [[次へ]](story_nd03.html)  
+[[前へ]](story_nd01) [[戻る]](storyn1) [[次へ]](story_nd03)  
 ---

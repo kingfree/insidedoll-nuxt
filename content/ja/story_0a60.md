@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0a60.html"
+source: "story_0a60"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **お嬢様物語：仕掛け（１話）** | [[戻る]](story01.html)  
-[[前へ]](story_0a58.html) [[次へ]](story_0a61.html)  
+| **お嬢様物語：仕掛け（１話）** | [[戻る]](story01)  
+[[前へ]](story_0a58) [[次へ]](story_0a61)  
 ---|---|---  
 |  |    
   
@@ -242,5 +239,5 @@ source: "story_0a60.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0a58.html) [[戻る]](story01.html) [[次へ]](story_0a61.html)  
+[[前へ]](story_0a58) [[戻る]](story01) [[次へ]](story_0a61)  
 ---

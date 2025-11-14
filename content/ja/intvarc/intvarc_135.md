@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_135.html"
+source: "intvarc/intvarc_135"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_141.html) | [[ 140 ]](intvarc_140.html) | [[ 139 ]](intvarc_139.html) | [[ 138 ]](intvarc_138.html) | [[ 137 ]](intvarc_137.html) | [[ 136 ]](intvarc_136.html) | [ 135 ] | [[ 134 ]](intvarc_134.html) | [[ 133 ]](intvarc_133.html) | [[ 132 ]](intvarc_132.html) | [[ 131 ]](intvarc_131.html) | [＞＞](intvarc_130.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_141) | [[ 140 ]](intvarc_140) | [[ 139 ]](intvarc_139) | [[ 138 ]](intvarc_138) | [[ 137 ]](intvarc_137) | [[ 136 ]](intvarc_136) | [ 135 ] | [[ 134 ]](intvarc_134) | [[ 133 ]](intvarc_133) | [[ 132 ]](intvarc_132) | [[ 131 ]](intvarc_131) | [＞＞](intvarc_130) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **135** | **動物に近いお人形さんがDoll clubに登場したりしますが、全身をボア系の素材で覆われてた場合、そのボアを撫でられたり、股間のボアをさわさわされたりしたら、中の人の大事な場所ではボアに包まれて弄られちゃうのでしょうか??あまりにも気持ち良すぎて通常よりも感じてしまいそうなのですが・・・**  
@@ -62,5 +62,5 @@ source: "intvarc/intvarc_135.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

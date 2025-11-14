@@ -1,20 +1,20 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_081.html"
+source: "intvarc/intvarc_081"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_091.html) | [[ 90 ]](intvarc_090.html) | [[ 89 ]](intvarc_089.html) | [[ 88 ]](intvarc_088.html) | [[ 87 ]](intvarc_087.html) | [[ 86 ]](intvarc_086.html) | [[ 85 ]](intvarc_085.html) | [[ 84 ]](intvarc_084.html) | [[ 83 ]](intvarc_083.html) | [[ 82 ]](intvarc_082.html) | [ 81 ] | [＞＞](intvarc_080.html) | [[戻る]](../theinterviews_index05.html)  
+| [＜＜](intvarc_091) | [[ 90 ]](intvarc_090) | [[ 89 ]](intvarc_089) | [[ 88 ]](intvarc_088) | [[ 87 ]](intvarc_087) | [[ 86 ]](intvarc_086) | [[ 85 ]](intvarc_085) | [[ 84 ]](intvarc_084) | [[ 83 ]](intvarc_083) | [[ 82 ]](intvarc_082) | [ 81 ] | [＞＞](intvarc_080) | [[戻る]](../theinterviews_index05)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **81** | **連投ごめんなさい。動くフィギュアのガラスケースが話題になって、ホビーショップ外へ「出張展示」となったとき、やはり機密保持のために、生きたフィギュア達は普通のフィギュアと混じって、それぞれ個別の人形箱のようなケースに入れられてホビーショップを出発するのでしょうか？**  
 ---|---  
-|  前２つの[[質問1]](intvarc_079.html) [[質問2]](intvarc_080.html)と同じ人の[質問]でしょうかね？  
+|  前２つの[[質問1]](intvarc_079) [[質問2]](intvarc_080)と同じ人の[質問]でしょうかね？  
 連投でも質問は歓迎です。  
   
 さて、ご質問の「出張展示」ですが、状況次第と言う気はします。  
@@ -101,5 +101,5 @@ source: "intvarc/intvarc_081.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index05.html)  
+[[戻る]](../theinterviews_index05)  
 ---

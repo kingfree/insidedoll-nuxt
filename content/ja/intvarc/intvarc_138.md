@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_138.html"
+source: "intvarc/intvarc_138"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_141.html) | [[ 140 ]](intvarc_140.html) | [[ 139 ]](intvarc_139.html) | [ 138 ] | [[ 137 ]](intvarc_137.html) | [[ 136 ]](intvarc_136.html) | [[ 135 ]](intvarc_135.html) | [[ 134 ]](intvarc_134.html) | [[ 133 ]](intvarc_133.html) | [[ 132 ]](intvarc_132.html) | [[ 131 ]](intvarc_131.html) | [＞＞](intvarc_130.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_141) | [[ 140 ]](intvarc_140) | [[ 139 ]](intvarc_139) | [ 138 ] | [[ 137 ]](intvarc_137) | [[ 136 ]](intvarc_136) | [[ 135 ]](intvarc_135) | [[ 134 ]](intvarc_134) | [[ 133 ]](intvarc_133) | [[ 132 ]](intvarc_132) | [[ 131 ]](intvarc_131) | [＞＞](intvarc_130) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **138** | **お話に登場するお人形さんの梱包ケース、箱の横に採光窓があり、 さらに蓋の裏側が鏡になっていると、ビニールに包まれた可愛いお人形の笑顔をずっと見ることができて素敵ですよね？**  
@@ -97,5 +97,5 @@ source: "intvarc/intvarc_138.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

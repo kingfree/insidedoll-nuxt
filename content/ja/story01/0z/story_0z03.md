@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0z/story_0z03.html"
+source: "story01/0z/story_0z03"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **ＫＦＣ（３話）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0z02.html)  
+| **ＫＦＣ（３話）** | [[戻る]](../../story01)  
+[[前へ]](story_0z02)  
 ---|---|---  
 |  |    
   
@@ -330,5 +330,5 @@ ID型着ぐるみと同様な仕組みであれば、その感触も当然中の
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0z02.html) [[戻る]](../../story01.html)  
+[[前へ]](story_0z02) [[戻る]](../../story01)  
 ---

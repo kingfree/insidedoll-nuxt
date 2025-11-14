@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_068.html"
+source: "intvarc/intvarc_068"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_071.html) | [[ 70 ]](intvarc_070.html) | [[ 69 ]](intvarc_069.html) | [ 68 ] | [[ 67 ]](intvarc_067.html) | [[ 66 ]](intvarc_066.html) | [[ 65 ]](intvarc_065.html) | [[ 64 ]](intvarc_064.html) | [[ 63 ]](intvarc_063.html) | [[ 62 ]](intvarc_062.html) | [[ 61 ]](intvarc_061.html) | [＞＞](intvarc_060.html) | [[戻る]](../theinterviews_index04.html)  
+| [＜＜](intvarc_071) | [[ 70 ]](intvarc_070) | [[ 69 ]](intvarc_069) | [ 68 ] | [[ 67 ]](intvarc_067) | [[ 66 ]](intvarc_066) | [[ 65 ]](intvarc_065) | [[ 64 ]](intvarc_064) | [[ 63 ]](intvarc_063) | [[ 62 ]](intvarc_062) | [[ 61 ]](intvarc_061) | [＞＞](intvarc_060) | [[戻る]](../theinterviews_index04)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **68** | **今年からプリキュアを見てるんですが、好きなキャラについて不人気と言ったり、食玩が売れ残っているのをわざわざ報告してくる方がいて困っています。 気にしないように努めてるのですが、そういう話題を出す人があまりにも多くて…人気不人気の話なんて何が楽しいんでしょうか？ というか、スマイルで不人気キャラなんているんでしょうか**  
@@ -46,5 +46,5 @@ source: "intvarc/intvarc_068.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index04.html)  
+[[戻る]](../theinterviews_index04)  
 ---

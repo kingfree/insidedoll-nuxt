@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/0z/story_0z01.html"
+source: "story01/0z/story_0z01"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **ＫＦＣ（１話）** | [[戻る]](../../story01.html)  
-[[次へ]](story_0z02.html)  
+| **ＫＦＣ（１話）** | [[戻る]](../../story01)  
+[[次へ]](story_0z02)  
 ---|---|---  
 |  |    
   
@@ -277,5 +277,5 @@ ID型着ぐるみ、と呼ばれるフェチ小説に出てくる着ぐるみは
   
 ![](../../img/line01.gif)
 
-[[戻る]](../../story01.html) [[次へ]](story_0z02.html)  
+[[戻る]](../../story01) [[次へ]](story_0z02)  
 ---

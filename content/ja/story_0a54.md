@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0a54.html"
+source: "story_0a54"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **お嬢様物語：フローラ（５話）** | [[戻る]](story01.html)  
-[[前へ]](story_0a53.html) [[次へ]](story_0a55.html)  
+| **お嬢様物語：フローラ（５話）** | [[戻る]](story01)  
+[[前へ]](story_0a53) [[次へ]](story_0a55)  
 ---|---|---  
 |  |    
   
@@ -202,5 +199,5 @@ source: "story_0a54.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0a53.html) [[戻る]](story01.html) [[次へ]](story_0a55.html)  
+[[前へ]](story_0a53) [[戻る]](story01) [[次へ]](story_0a55)  
 ---

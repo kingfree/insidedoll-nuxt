@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_048.html"
+source: "intvarc/intvarc_048"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_051.html) | [[ 50 ]](intvarc_050.html) | [[ 49 ]](intvarc_049.html) | [ 48 ] | [[ 47 ]](intvarc_047.html) | [[ 46 ]](intvarc_046.html) | [[ 45 ]](intvarc_045.html) | [[ 44 ]](intvarc_044.html) | [[ 43 ]](intvarc_043.html) | [[ 42 ]](intvarc_042.html) | [[ 41 ]](intvarc_041.html) | [＞＞](intvarc_040.html) | [[戻る]](../theinterviews_index03.html)  
+| [＜＜](intvarc_051) | [[ 50 ]](intvarc_050) | [[ 49 ]](intvarc_049) | [ 48 ] | [[ 47 ]](intvarc_047) | [[ 46 ]](intvarc_046) | [[ 45 ]](intvarc_045) | [[ 44 ]](intvarc_044) | [[ 43 ]](intvarc_043) | [[ 42 ]](intvarc_042) | [[ 41 ]](intvarc_041) | [＞＞](intvarc_040) | [[戻る]](../theinterviews_index03)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **48** | **着ぐるみ魔法とかあったら使ってみたくないですか？例えばヌゲナクナールとか肌タイゴム化とかフィギュア化とか**  
@@ -63,5 +63,5 @@ source: "intvarc/intvarc_048.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index03.html)  
+[[戻る]](../theinterviews_index03)  
 ---

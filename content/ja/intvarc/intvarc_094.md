@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_094.html"
+source: "intvarc/intvarc_094"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_101.html) | [[ 100 ]](intvarc_100.html) | [[ 99 ]](intvarc_099.html) | [[ 98 ]](intvarc_098.html) | [[ 97 ]](intvarc_097.html) | [[ 96 ]](intvarc_096.html) | [[ 95 ]](intvarc_095.html) | [ 94 ] | [[ 93 ]](intvarc_093.html) | [[ 92 ]](intvarc_092.html) | [[ 91 ]](intvarc_091.html) | [＞＞](intvarc_090.html) | [[戻る]](../theinterviews_index05.html)  
+| [＜＜](intvarc_101) | [[ 100 ]](intvarc_100) | [[ 99 ]](intvarc_099) | [[ 98 ]](intvarc_098) | [[ 97 ]](intvarc_097) | [[ 96 ]](intvarc_096) | [[ 95 ]](intvarc_095) | [ 94 ] | [[ 93 ]](intvarc_093) | [[ 92 ]](intvarc_092) | [[ 91 ]](intvarc_091) | [＞＞](intvarc_090) | [[戻る]](../theinterviews_index05)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **94** | **小説の登場人物「成田君」の報われる日は来るのでしょうか？個人的にはずっとこのままでもいい気はしますがねｗ**  
@@ -59,5 +59,5 @@ source: "intvarc/intvarc_094.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index05.html)  
+[[戻る]](../theinterviews_index05)  
 ---

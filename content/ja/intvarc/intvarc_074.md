@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_074.html"
+source: "intvarc/intvarc_074"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_081.html) | [[ 80 ]](intvarc_080.html) | [[ 79 ]](intvarc_079.html) | [[ 78 ]](intvarc_078.html) | [[ 77 ]](intvarc_077.html) | [[ 76 ]](intvarc_076.html) | [[ 75 ]](intvarc_075.html) | [ 74 ] | [[ 73 ]](intvarc_073.html) | [[ 72 ]](intvarc_072.html) | [[ 71 ]](intvarc_071.html) | [＞＞](intvarc_070.html) | [[戻る]](../theinterviews_index04.html)  
+| [＜＜](intvarc_081) | [[ 80 ]](intvarc_080) | [[ 79 ]](intvarc_079) | [[ 78 ]](intvarc_078) | [[ 77 ]](intvarc_077) | [[ 76 ]](intvarc_076) | [[ 75 ]](intvarc_075) | [ 74 ] | [[ 73 ]](intvarc_073) | [[ 72 ]](intvarc_072) | [[ 71 ]](intvarc_071) | [＞＞](intvarc_070) | [[戻る]](../theinterviews_index04)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **74** | **中が涼しく快適で寝ることもできる休憩ケースみたいなものがあれば、相当長い時間着ぐるみ美少女でいられると思いませんか？**  
@@ -82,5 +82,5 @@ source: "intvarc/intvarc_074.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index04.html)  
+[[戻る]](../theinterviews_index04)  
 ---

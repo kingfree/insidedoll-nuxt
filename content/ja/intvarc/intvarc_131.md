@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_131.html"
+source: "intvarc/intvarc_131"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_141.html) | [[ 140 ]](intvarc_140.html) | [[ 139 ]](intvarc_139.html) | [[ 138 ]](intvarc_138.html) | [[ 137 ]](intvarc_137.html) | [[ 136 ]](intvarc_136.html) | [[ 135 ]](intvarc_135.html) | [[ 134 ]](intvarc_134.html) | [[ 133 ]](intvarc_133.html) | [[ 132 ]](intvarc_132.html) | [ 131 ] | [＞＞](intvarc_130.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_141) | [[ 140 ]](intvarc_140) | [[ 139 ]](intvarc_139) | [[ 138 ]](intvarc_138) | [[ 137 ]](intvarc_137) | [[ 136 ]](intvarc_136) | [[ 135 ]](intvarc_135) | [[ 134 ]](intvarc_134) | [[ 133 ]](intvarc_133) | [[ 132 ]](intvarc_132) | [ 131 ] | [＞＞](intvarc_130) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **131** | **深夜、誰もいない静まり返った住宅街や公園で、美少女と散歩デートしたくないですか？**  
@@ -67,5 +67,5 @@ source: "intvarc/intvarc_131.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

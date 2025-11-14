@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0902.html"
+source: "story_0902"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **マスコット（２話）** | [[戻る]](story01.html)  
-[[前へ]](story_0901.html) [[次へ]](story_0903.html)  
+| **マスコット（２話）** | [[戻る]](story01)  
+[[前へ]](story_0901) [[次へ]](story_0903)  
 ---|---|---  
 |  |    
   
@@ -169,5 +166,5 @@ source: "story_0902.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0901.html) [[戻る]](story01.html)  
+[[前へ]](story_0901) [[戻る]](story01)  
 ---

@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_n803.html"
+source: "story_n803"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **由佳里のバースデー -inside-（３話）** | [[戻る]](storyn1.html)  
-[[前へ]](story_n802.html) [[次へ]](story_n804.html)  
+| **由佳里のバースデー -inside-（３話）** | [[戻る]](storyn1)  
+[[前へ]](story_n802) [[次へ]](story_n804)  
 ---|---|---  
 |  |    
   
@@ -299,5 +296,5 @@ source: "story_n803.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_n802.html) [[戻る]](storyn1.html) [[次へ]](story_n804.html)  
+[[前へ]](story_n802) [[戻る]](storyn1) [[次へ]](story_n804)  
 ---

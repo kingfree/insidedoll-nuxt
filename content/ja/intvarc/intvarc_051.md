@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_051.html"
+source: "intvarc/intvarc_051"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_061.html) | [[ 60 ]](intvarc_060.html) | [[ 59 ]](intvarc_059.html) | [[ 58 ]](intvarc_058.html) | [[ 57 ]](intvarc_057.html) | [[ 56 ]](intvarc_056.html) | [[ 55 ]](intvarc_055.html) | [[ 54 ]](intvarc_054.html) | [[ 53 ]](intvarc_053.html) | [[ 52 ]](intvarc_052.html) | [ 51 ] | [＞＞](intvarc_050.html) | [[戻る]](../theinterviews_index03.html)  
+| [＜＜](intvarc_061) | [[ 60 ]](intvarc_060) | [[ 59 ]](intvarc_059) | [[ 58 ]](intvarc_058) | [[ 57 ]](intvarc_057) | [[ 56 ]](intvarc_056) | [[ 55 ]](intvarc_055) | [[ 54 ]](intvarc_054) | [[ 53 ]](intvarc_053) | [[ 52 ]](intvarc_052) | [ 51 ] | [＞＞](intvarc_050) | [[戻る]](../theinterviews_index03)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **51** | **お味噌汁の具ベスト3を教えて下さい。**  
@@ -94,5 +94,5 @@ source: "intvarc/intvarc_051.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index03.html)  
+[[戻る]](../theinterviews_index03)  
 ---

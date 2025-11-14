@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "storyh1/h0/story_h011.html"
+source: "storyh1/h0/story_h011"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **オープニングスタッフ（１１話）** | [[戻る]](../../storyh1.html)  
-[[前へ]](story_h010.html)  
+| **オープニングスタッフ（１１話）** | [[戻る]](../../storyh1)  
+[[前へ]](story_h010)  
 ---|---|---  
 |  |    
   
@@ -314,5 +314,5 @@ source: "storyh1/h0/story_h011.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_h010.html) [[戻る]](../../storyh1.html)  
+[[前へ]](story_h010) [[戻る]](../../storyh1)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_176.html"
+source: "intvarc/intvarc_176"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| \---- | [ --- ] | [ --- ] | [[ 178 ]](intvarc_178.html) | [[ 177 ]](intvarc_177.html) | [ 176 ] | [[ 175 ]](intvarc_175.html) | [[ 174 ]](intvarc_174.html) | [[ 173 ]](intvarc_173.html) | [[ 172 ]](intvarc_172.html) | [[ 171 ]](intvarc_171.html) | [＞＞](intvarc_170.html) | [[戻る]](../theinterviews_index09.html)  
+| \---- | [ --- ] | [ --- ] | [[ 178 ]](intvarc_178) | [[ 177 ]](intvarc_177) | [ 176 ] | [[ 175 ]](intvarc_175) | [[ 174 ]](intvarc_174) | [[ 173 ]](intvarc_173) | [[ 172 ]](intvarc_172) | [[ 171 ]](intvarc_171) | [＞＞](intvarc_170) | [[戻る]](../theinterviews_index09)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **176** | **ラブプラスの姉ヶ崎寧々さん、お姉さん &タイツでけっこうとん太さん好みだと思うのですが、ホビー21で着ぐるみ化いかがですか！**  
@@ -56,5 +56,5 @@ source: "intvarc/intvarc_176.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index09.html)  
+[[戻る]](../theinterviews_index09)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_060.html"
+source: "intvarc/intvarc_060"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_061.html) | [ 60 ] | [[ 59 ]](intvarc_059.html) | [[ 58 ]](intvarc_058.html) | [[ 57 ]](intvarc_057.html) | [[ 56 ]](intvarc_056.html) | [[ 55 ]](intvarc_055.html) | [[ 54 ]](intvarc_054.html) | [[ 53 ]](intvarc_053.html) | [[ 52 ]](intvarc_052.html) | [[ 51 ]](intvarc_051.html) | [＞＞](intvarc_050.html) | [[戻る]](../theinterviews_index03.html)  
+| [＜＜](intvarc_061) | [ 60 ] | [[ 59 ]](intvarc_059) | [[ 58 ]](intvarc_058) | [[ 57 ]](intvarc_057) | [[ 56 ]](intvarc_056) | [[ 55 ]](intvarc_055) | [[ 54 ]](intvarc_054) | [[ 53 ]](intvarc_053) | [[ 52 ]](intvarc_052) | [[ 51 ]](intvarc_051) | [＞＞](intvarc_050) | [[戻る]](../theinterviews_index03)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **60** | **とん太さんの小説にはあまりキスシーンが見当たりませんが、お嫌いですか？**  
@@ -44,5 +44,5 @@ source: "intvarc/intvarc_060.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index01.html)  
+[[戻る]](../theinterviews_index01)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_126.html"
+source: "intvarc/intvarc_126"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_131.html) | [[ 130 ]](intvarc_130.html) | [[ 129 ]](intvarc_129.html) | [[ 128 ]](intvarc_128.html) | [[ 127 ]](intvarc_127.html) | [ 126 ] | [[ 125 ]](intvarc_125.html) | [[ 124 ]](intvarc_124.html) | [[ 123 ]](intvarc_123.html) | [[ 122 ]](intvarc_122.html) | [[ 121 ]](intvarc_121.html) | [＞＞](intvarc_120.html) | [[戻る]](../theinterviews_index07.html)  
+| [＜＜](intvarc_131) | [[ 130 ]](intvarc_130) | [[ 129 ]](intvarc_129) | [[ 128 ]](intvarc_128) | [[ 127 ]](intvarc_127) | [ 126 ] | [[ 125 ]](intvarc_125) | [[ 124 ]](intvarc_124) | [[ 123 ]](intvarc_123) | [[ 122 ]](intvarc_122) | [[ 121 ]](intvarc_121) | [＞＞](intvarc_120) | [[戻る]](../theinterviews_index07)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **126** | **投稿作品の「レッスル・ヒロイン」がありますが、あの続きが読みたくて読みたくて仕方ないのですが。。。続きはもうでないのですか？とん太さんが手を加えたりはしないんですか？**  
@@ -35,5 +35,5 @@ source: "intvarc/intvarc_126.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index07.html)  
+[[戻る]](../theinterviews_index07)  
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_114.html"
+source: "intvarc/intvarc_114"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_121.html) | [[ 120 ]](intvarc_120.html) | [[ 119 ]](intvarc_119.html) | [[ 118 ]](intvarc_118.html) | [[ 117 ]](intvarc_117.html) | [[ 116 ]](intvarc_116.html) | [[ 115 ]](intvarc_115.html) | [ 114 ] | [[ 113 ]](intvarc_113.html) | [[ 112 ]](intvarc_112.html) | [[ 111 ]](intvarc_111.html) | [＞＞](intvarc_110.html) | [[戻る]](../theinterviews_index06.html)  
+| [＜＜](intvarc_121) | [[ 120 ]](intvarc_120) | [[ 119 ]](intvarc_119) | [[ 118 ]](intvarc_118) | [[ 117 ]](intvarc_117) | [[ 116 ]](intvarc_116) | [[ 115 ]](intvarc_115) | [ 114 ] | [[ 113 ]](intvarc_113) | [[ 112 ]](intvarc_112) | [[ 111 ]](intvarc_111) | [＞＞](intvarc_110) | [[戻る]](../theinterviews_index06)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **114** | **警察の１日署長を着ぐるみアイドルがやると大変そうですよね。タイトなジャケットとスカートにパンストで長時間拘束されて移動したりもしますからね…**  
@@ -77,5 +77,5 @@ source: "intvarc/intvarc_114.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index06.html)  
+[[戻る]](../theinterviews_index06)  
 ---

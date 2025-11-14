@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0714.html"
+source: "story_0714"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **ＤｏｌｌＣｌｕｂ～Ｅｐｉｓｏｄｅ ２～（１４章）** | [[戻る]](story01.html)  
-[[前へ]](story_0713.html)  
+| **ＤｏｌｌＣｌｕｂ～Ｅｐｉｓｏｄｅ ２～（１４章）** | [[戻る]](story01)  
+[[前へ]](story_0713)  
 ---|---|---  
 |  |    
   
@@ -288,5 +285,5 @@ DollClubにいる着ぐるみ達の身体がもつセンサーは、衣装の生
   
 ![](img/line01.gif)
 
-[[前へ]](story_0713.html) [[戻る]](story01.html)  
+[[前へ]](story_0713) [[戻る]](story01)  
 ---

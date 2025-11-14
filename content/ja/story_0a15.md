@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0a15.html"
+source: "story_0a15"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **お嬢様物語：再会（６話）** | [[戻る]](story01.html)  
-[[前へ]](story_0a14.html) [[次へ]](story_0a16.html)  
+| **お嬢様物語：再会（６話）** | [[戻る]](story01)  
+[[前へ]](story_0a14) [[次へ]](story_0a16)  
 ---|---|---  
 |  |    
   
@@ -193,5 +190,5 @@ source: "story_0a15.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0a14.html) [[戻る]](story01.html) [[次へ]](story_0a16.html)  
+[[前へ]](story_0a14) [[戻る]](story01) [[次へ]](story_0a16)  
 ---

@@ -1,12 +1,12 @@
 ---
 title: "Inside Doll"
-source: "story01/03/story_0301.html"
+source: "story01/03/story_0301"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **女神的なお話** | [[戻る]](../../story01.html)  
+| **女神的なお話** | [[戻る]](../../story01)  
   
 ---|---|---  
 |  |   
@@ -681,5 +681,5 @@ source: "story01/03/story_0301.html"
   
 ![](../../img/line01.gif)
 
-[[戻る]](../../story01.html)  
+[[戻る]](../../story01)  
 ---

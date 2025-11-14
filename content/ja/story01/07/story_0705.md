@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/07/story_0705.html"
+source: "story01/07/story_0705"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **ＤｏｌｌＣｌｕｂ～Ｅｐｉｓｏｄｅ ２～（５章）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0704.html) [[次へ]](story_0706.html)  
+| **ＤｏｌｌＣｌｕｂ～Ｅｐｉｓｏｄｅ ２～（５章）** | [[戻る]](../../story01)  
+[[前へ]](story_0704) [[次へ]](story_0706)  
 ---|---|---  
 |  |    
   
@@ -273,5 +273,5 @@ source: "story01/07/story_0705.html"
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0704.html) [[戻る]](../../story01.html) [[次へ]](story_0706.html)  
+[[前へ]](story_0704) [[戻る]](../../story01) [[次へ]](story_0706)  
 ---

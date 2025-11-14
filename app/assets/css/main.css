@@ -1,2 +1,11 @@
 @import "tailwindcss";
 @import "@nuxt/ui";
+
+em {
+  color: var(--color-secondary-500);
+  font-style: normal;
+}
+
+strong {
+  color: var(--color-secondary-500);
+}

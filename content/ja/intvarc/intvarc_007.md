@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_007.html"
+source: "intvarc/intvarc_007"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_011.html) | [[ 10 ]](intvarc_010.html) | [[ 9 ]](intvarc_009.html) | [[ 8 ]](intvarc_008.html) | [ 7 ] | [[ 6 ]](intvarc_006.html) | [[ 5 ]](intvarc_005.html) | [[ 4 ]](intvarc_004.html) | [[ 3 ]](intvarc_003.html) | [[ 2 ]](intvarc_002.html) | [[ 1 ]](intvarc_001.html) | ＞＞ | [[戻る]](../theinterviews_index01.html)  
+| [＜＜](intvarc_011) | [[ 10 ]](intvarc_010) | [[ 9 ]](intvarc_009) | [[ 8 ]](intvarc_008) | [ 7 ] | [[ 6 ]](intvarc_006) | [[ 5 ]](intvarc_005) | [[ 4 ]](intvarc_004) | [[ 3 ]](intvarc_003) | [[ 2 ]](intvarc_002) | [[ 1 ]](intvarc_001) | ＞＞ | [[戻る]](../theinterviews_index01)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **7** | **ホビー21の着ぐるみ新人研修のしめくくりは、やっぱりイケメン着ぐるみとのHだったりするんですか？///**  
@@ -64,5 +64,5 @@ source: "intvarc/intvarc_007.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index01.html)  
+[[戻る]](../theinterviews_index01)  
 ---

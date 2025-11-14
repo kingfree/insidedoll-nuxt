@@ -1,12 +1,12 @@
 ---
 title: "Inside Doll"
-source: "story01/0v/story_0v01.html"
+source: "story01/0v/story_0v01"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **非公式撮影会（１話完結）** | [[戻る]](../../story01.html)  
+| **非公式撮影会（１話完結）** | [[戻る]](../../story01)  
   
 ---|---|---  
 |  |    
@@ -486,5 +486,5 @@ source: "story01/0v/story_0v01.html"
   
 ![](../../img/line01.gif)
 
-[[戻る]](../../story01.html)  
+[[戻る]](../../story01)  
 ---

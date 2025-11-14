@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_166.html"
+source: "intvarc/intvarc_166"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_171.html) | [[ 170 ]](intvarc_170.html) | [[ 169 ]](intvarc_169.html) | [[ 168 ]](intvarc_168.html) | [[ 167 ]](intvarc_167.html) | [ 166 ] | [[ 165 ]](intvarc_165.html) | [[ 164 ]](intvarc_164.html) | [[ 163 ]](intvarc_163.html) | [[ 162 ]](intvarc_162.html) | [[ 161 ]](intvarc_161.html) | [＞＞](intvarc_160.html) | [[戻る]](../theinterviews_index09.html)  
+| [＜＜](intvarc_171) | [[ 170 ]](intvarc_170) | [[ 169 ]](intvarc_169) | [[ 168 ]](intvarc_168) | [[ 167 ]](intvarc_167) | [ 166 ] | [[ 165 ]](intvarc_165) | [[ 164 ]](intvarc_164) | [[ 163 ]](intvarc_163) | [[ 162 ]](intvarc_162) | [[ 161 ]](intvarc_161) | [＞＞](intvarc_160) | [[戻る]](../theinterviews_index09)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **166** | **パンティの着ぐるみがあったらこっそりもぐり込んで美少女に履かれたくないですか？**  
@@ -81,5 +81,5 @@ InsideDoll型と違い、美少女の中の殿方をそれ程完璧に隠すこ�
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index09.html)  
+[[戻る]](../theinterviews_index09)  
 ---

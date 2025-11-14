@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0g31.html"
+source: "story_0g31"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **定例仮面舞踏会（前編）** | [[戻る]](storyg1.html)  
-[[次へ]](story_0g32.html)  
+| **定例仮面舞踏会（前編）** | [[戻る]](storyg1)  
+[[次へ]](story_0g32)  
 ---|---|---  
 |  |    
   
@@ -649,5 +646,5 @@ source: "story_0g31.html"
   
 ![](img/line01.gif)
 
-[[戻る]](storyg1.html) [[次へ]](story_0g32.html)  
+[[戻る]](storyg1) [[次へ]](story_0g32)  
 ---

@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0a40.html"
+source: "story_0a40"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **お嬢様物語：大人な３人（１話）** | [[戻る]](story01.html)  
-[[前へ]](story_0a34.html) [[次へ]](story_0a41.html)  
+| **お嬢様物語：大人な３人（１話）** | [[戻る]](story01)  
+[[前へ]](story_0a34) [[次へ]](story_0a41)  
 ---|---|---  
 |  |    
   
@@ -185,5 +182,5 @@ source: "story_0a40.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0a34.html) [[戻る]](story01.html) [[次へ]](story_0a41.html)  
+[[前へ]](story_0a34) [[戻る]](story01) [[次へ]](story_0a41)  
 ---

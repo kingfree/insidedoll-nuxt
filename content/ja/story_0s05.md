@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0s05.html"
+source: "story_0s05"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **アイの秘密と嫉妬心（５話）** | [[戻る]](story01.html)  
-[[前へ]](story_0s04.html) [[次へ]](story_0s06.html)  
+| **アイの秘密と嫉妬心（５話）** | [[戻る]](story01)  
+[[前へ]](story_0s04) [[次へ]](story_0s06)  
 ---|---|---  
 |  |    
   
@@ -274,5 +271,5 @@ source: "story_0s05.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0s04.html) [[戻る]](story01.html) [[次へ]](story_0s06.html)  
+[[前へ]](story_0s04) [[戻る]](story01) [[次へ]](story_0s06)  
 ---

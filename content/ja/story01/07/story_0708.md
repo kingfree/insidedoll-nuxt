@@ -1,13 +1,13 @@
 ---
 title: "Inside Doll"
-source: "story01/07/story_0708.html"
+source: "story01/07/story_0708"
 ---
 
-[![](../../img/insidedoll_title.gif)](../../main.html)  
+[![](../../img/insidedoll_title.gif)](../../main)  
 ![](../../img/line01.gif)
 
-| **ＤｏｌｌＣｌｕｂ～Ｅｐｉｓｏｄｅ ２～（８章）** | [[戻る]](../../story01.html)  
-[[前へ]](story_0707.html) [[次へ]](story_0709.html)  
+| **ＤｏｌｌＣｌｕｂ～Ｅｐｉｓｏｄｅ ２～（８章）** | [[戻る]](../../story01)  
+[[前へ]](story_0707) [[次へ]](story_0709)  
 ---|---|---  
 |  |    
   
@@ -257,5 +257,5 @@ DollClubで、全てのキャラクターが男性だと言う事実を聞かさ
   
 ![](../../img/line01.gif)
 
-[[前へ]](story_0707.html) [[戻る]](../../story01.html) [[次へ]](story_0709.html)  
+[[前へ]](story_0707) [[戻る]](../../story01) [[次へ]](story_0709)  
 ---

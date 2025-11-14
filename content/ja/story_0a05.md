@@ -1,13 +1,10 @@
 ---
 title: "Inside Doll"
-source: "story_0a05.html"
+source: "story_0a05"
 ---
 
-[![](img/insidedoll_title.gif)](main.html)  
-![](img/line01.gif)
-
-| **お嬢様物語：雨宿り（５話） 【挿絵提供：田代憂様】** | [[戻る]](story01.html)  
-[[前へ]](story_0a04.html) [[次へ]](story_0a06.html)  
+| **お嬢様物語：雨宿り（５話） 【挿絵提供：田代憂様】** | [[戻る]](story01)  
+[[前へ]](story_0a04) [[次へ]](story_0a06)  
 ---|---|---  
 |  |    
   
@@ -170,5 +167,5 @@ source: "story_0a05.html"
   
 ![](img/line01.gif)
 
-[[前へ]](story_0a04.html) [[戻る]](story01.html) [[次へ]](story_0a06.html)  
+[[前へ]](story_0a04) [[戻る]](story01) [[次へ]](story_0a06)  
 ---

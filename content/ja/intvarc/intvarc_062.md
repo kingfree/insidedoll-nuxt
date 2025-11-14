@@ -1,15 +1,15 @@
 ---
 title: "Inside Doll"
-source: "intvarc/intvarc_062.html"
+source: "intvarc/intvarc_062"
 ---
 
-[![](../img/insidedoll_title.gif)](../main.html)  
+[![](../img/insidedoll_title.gif)](../main)  
 ![](../img/line01.gif)
 
 | **ザ・インタビューズ・アーカイブ** |   
 ---|---|---  
 |  |  |    
-| [＜＜](intvarc_071.html) | [[ 70 ]](intvarc_070.html) | [[ 69 ]](intvarc_069.html) | [[ 68 ]](intvarc_068.html) | [[ 67 ]](intvarc_067.html) | [[ 66 ]](intvarc_066.html) | [[ 65 ]](intvarc_065.html) | [[ 64 ]](intvarc_064.html) | [[ 63 ]](intvarc_063.html) | [ 62 ] | [[ 61 ]](intvarc_061.html) | [＞＞](intvarc_060.html) | [[戻る]](../theinterviews_index04.html)  
+| [＜＜](intvarc_071) | [[ 70 ]](intvarc_070) | [[ 69 ]](intvarc_069) | [[ 68 ]](intvarc_068) | [[ 67 ]](intvarc_067) | [[ 66 ]](intvarc_066) | [[ 65 ]](intvarc_065) | [[ 64 ]](intvarc_064) | [[ 63 ]](intvarc_063) | [ 62 ] | [[ 61 ]](intvarc_061) | [＞＞](intvarc_060) | [[戻る]](../theinterviews_index04)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 **62** | **物欲しそうな、えっちな表情で固定されている着ぐるみを着たら、中の人はどんな気分になるでしょうか**  
@@ -58,5 +58,5 @@ source: "intvarc/intvarc_062.html"
   
 ![](../img/line01.gif)
 
-[[戻る]](../theinterviews_index04.html)  
+[[戻る]](../theinterviews_index04)  
 ---
