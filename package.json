@@ -7,7 +7,17 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "translation:report": "tsx scripts/translation-tracker.ts report",
+    "translation:list": "tsx scripts/translation-tracker.ts list",
+    "translation:create": "tsx scripts/create-translation-template.ts",
+    "translation:help": "tsx scripts/translation-tracker.ts help",
+    "nav:generate": "tsx scripts/generate-navigation.ts",
+    "nav:analyze": "tsx scripts/generate-navigation.ts analyze",
+    "nav:json": "tsx scripts/generate-navigation.ts json",
+    "nav:create-indexes": "tsx scripts/create-index-pages.ts",
+    "scraper:basic": "tsx scripts/scraper/crawler.ts",
+    "scraper:advanced": "tsx scripts/scraper/advanced-crawler.ts"
   },
   "dependencies": {
     "@nuxt/content": "3.8.2",
@@ -17,7 +27,15 @@
     "@nuxtjs/i18n": "^10.2.0",
     "better-sqlite3": "^12.4.1",
     "nuxt": "^4.2.1",
+    "remark-breaks": "^4.0.0",
     "vue": "^3.5.24",
     "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/turndown": "^5.0.6",
+    "cheerio": "^1.2.0",
+    "iconv-lite": "^0.7.2",
+    "tsx": "^4.21.0",
+    "turndown": "^7.2.2"
   }
 }

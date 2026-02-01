@@ -1,0 +1,14 @@
+{
+  "name": "insidedoll-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "turndown": "^7.2.0",
+    "cheerio": "^1.0.0",
+    "iconv-lite": "^0.6.3"
+  },
+  "devDependencies": {
+    "@types/turndown": "^5.0.5",
+    "tsx": "^4.21.0"
+  }
+}

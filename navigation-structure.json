@@ -1,0 +1,3398 @@
+{
+  "navigation": [
+    {
+      "name": "main-pages",
+      "title": "主要页面",
+      "description": "网站的主要导航页面",
+      "path": "/",
+      "count": 4,
+      "subsections": [
+        {
+          "name": "index",
+          "title": "首页",
+          "description": "年龄确认页",
+          "path": "index",
+          "count": 1
+        },
+        {
+          "name": "main",
+          "title": "主页",
+          "description": "网站主导航",
+          "path": "main",
+          "count": 1
+        },
+        {
+          "name": "info",
+          "title": "简介",
+          "description": "网站概要",
+          "path": "info",
+          "count": 1
+        },
+        {
+          "name": "wnew",
+          "title": "最新消息",
+          "description": "更新通知",
+          "path": "wnew",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "stories",
+      "title": "小说作品",
+      "description": "美少女着装主题小说",
+      "path": "/stories",
+      "count": 261,
+      "subsections": [
+        {
+          "name": "story01",
+          "title": "とん太的作品",
+          "description": "主要故事系列",
+          "path": "story01",
+          "count": 170
+        },
+        {
+          "name": "storyn1",
+          "title": "成田君的故事",
+          "description": "成田系列故事",
+          "path": "storyn1",
+          "count": 61
+        },
+        {
+          "name": "storyh1",
+          "title": "羽田君的故事",
+          "description": "羽田系列故事",
+          "path": "storyh1",
+          "count": 11
+        },
+        {
+          "name": "storyg1",
+          "title": "お人形達の学園",
+          "description": "人偶学园系列",
+          "path": "storyg1",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "name": "single-stories",
+      "title": "单篇故事",
+      "description": "根目录下的独立故事文件",
+      "path": "/single-stories",
+      "count": 185
+    },
+    {
+      "name": "interviews",
+      "title": "访谈 & 互动",
+      "description": "问答与访谈内容",
+      "path": "/interviews",
+      "count": 185,
+      "subsections": [
+        {
+          "name": "intvarc",
+          "title": "访谈存档",
+          "description": "ザ・インタビューズ存档",
+          "path": "intvarc",
+          "count": 176
+        },
+        {
+          "name": "theinterviews",
+          "title": "访谈索引",
+          "description": "访谈索引页面",
+          "path": "theinterviews_index",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "name": "blog",
+      "title": "博客",
+      "description": "2010-2012年的博客文章",
+      "path": "blog",
+      "count": 1
+    },
+    {
+      "name": "other",
+      "title": "其他内容",
+      "description": "专栏、链接等其他内容",
+      "path": "/other",
+      "count": 8,
+      "subsections": [
+        {
+          "name": "column",
+          "title": "专栏",
+          "description": "个人专栏文章",
+          "path": "column",
+          "count": 2
+        },
+        {
+          "name": "novel_info",
+          "title": "同人小说",
+          "description": "出版书籍信息",
+          "path": "novel_info",
+          "count": 4
+        },
+        {
+          "name": "link",
+          "title": "链接",
+          "description": "友情链接",
+          "path": "link",
+          "count": 1
+        },
+        {
+          "name": "kigoffinfo",
+          "title": "活动方针",
+          "description": "オフ会方针",
+          "path": "kigoffinfo",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "directories": {
+    "blog": [
+      {
+        "name": "2010",
+        "path": "blog/2010",
+        "title": "2010",
+        "type": "directory",
+        "count": 7,
+        "children": [
+          {
+            "name": "06",
+            "path": "blog/2010/06",
+            "title": "06",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "07",
+            "path": "blog/2010/07",
+            "title": "07",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "08",
+            "path": "blog/2010/08",
+            "title": "08",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "09",
+            "path": "blog/2010/09",
+            "title": "09",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "10",
+            "path": "blog/2010/10",
+            "title": "10",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "11",
+            "path": "blog/2010/11",
+            "title": "11",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "12",
+            "path": "blog/2010/12",
+            "title": "12",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "2011",
+        "path": "blog/2011",
+        "title": "2011",
+        "type": "directory",
+        "count": 10,
+        "children": [
+          {
+            "name": "01",
+            "path": "blog/2011/01",
+            "title": "01",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "02",
+            "path": "blog/2011/02",
+            "title": "02",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "03",
+            "path": "blog/2011/03",
+            "title": "03",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "04",
+            "path": "blog/2011/04",
+            "title": "04",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "05",
+            "path": "blog/2011/05",
+            "title": "05",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "06",
+            "path": "blog/2011/06",
+            "title": "06",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "07",
+            "path": "blog/2011/07",
+            "title": "07",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "08",
+            "path": "blog/2011/08",
+            "title": "08",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "10",
+            "path": "blog/2011/10",
+            "title": "10",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "12",
+            "path": "blog/2011/12",
+            "title": "12",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "2012",
+        "path": "blog/2012",
+        "title": "2012",
+        "type": "directory",
+        "count": 5,
+        "children": [
+          {
+            "name": "02",
+            "path": "blog/2012/02",
+            "title": "02",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "03",
+            "path": "blog/2012/03",
+            "title": "03",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "04",
+            "path": "blog/2012/04",
+            "title": "04",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "05",
+            "path": "blog/2012/05",
+            "title": "05",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          },
+          {
+            "name": "06",
+            "path": "blog/2012/06",
+            "title": "06",
+            "type": "directory",
+            "count": 0,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "index.md",
+        "path": "blog/index.md",
+        "title": "InsideDoll blog",
+        "type": "file"
+      }
+    ],
+    "intvarc": [
+      {
+        "name": "intvarc_001.md",
+        "path": "intvarc/intvarc_001.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_002.md",
+        "path": "intvarc/intvarc_002.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_003.md",
+        "path": "intvarc/intvarc_003.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_004.md",
+        "path": "intvarc/intvarc_004.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_005.md",
+        "path": "intvarc/intvarc_005.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_006.md",
+        "path": "intvarc/intvarc_006.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_007.md",
+        "path": "intvarc/intvarc_007.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_009.md",
+        "path": "intvarc/intvarc_009.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_010.md",
+        "path": "intvarc/intvarc_010.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_011.md",
+        "path": "intvarc/intvarc_011.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_012.md",
+        "path": "intvarc/intvarc_012.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_013.md",
+        "path": "intvarc/intvarc_013.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_014.md",
+        "path": "intvarc/intvarc_014.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_015.md",
+        "path": "intvarc/intvarc_015.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_016.md",
+        "path": "intvarc/intvarc_016.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_017.md",
+        "path": "intvarc/intvarc_017.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_019.md",
+        "path": "intvarc/intvarc_019.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_020.md",
+        "path": "intvarc/intvarc_020.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_021.md",
+        "path": "intvarc/intvarc_021.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_022.md",
+        "path": "intvarc/intvarc_022.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_023.md",
+        "path": "intvarc/intvarc_023.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_024.md",
+        "path": "intvarc/intvarc_024.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_025.md",
+        "path": "intvarc/intvarc_025.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_026.md",
+        "path": "intvarc/intvarc_026.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_027.md",
+        "path": "intvarc/intvarc_027.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_028.md",
+        "path": "intvarc/intvarc_028.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_029.md",
+        "path": "intvarc/intvarc_029.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_030.md",
+        "path": "intvarc/intvarc_030.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_031.md",
+        "path": "intvarc/intvarc_031.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_032.md",
+        "path": "intvarc/intvarc_032.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_033.md",
+        "path": "intvarc/intvarc_033.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_034.md",
+        "path": "intvarc/intvarc_034.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_035.md",
+        "path": "intvarc/intvarc_035.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_036.md",
+        "path": "intvarc/intvarc_036.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_037.md",
+        "path": "intvarc/intvarc_037.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_038.md",
+        "path": "intvarc/intvarc_038.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_039.md",
+        "path": "intvarc/intvarc_039.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_040.md",
+        "path": "intvarc/intvarc_040.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_041.md",
+        "path": "intvarc/intvarc_041.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_042.md",
+        "path": "intvarc/intvarc_042.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_043.md",
+        "path": "intvarc/intvarc_043.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_044.md",
+        "path": "intvarc/intvarc_044.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_045.md",
+        "path": "intvarc/intvarc_045.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_046.md",
+        "path": "intvarc/intvarc_046.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_047.md",
+        "path": "intvarc/intvarc_047.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_048.md",
+        "path": "intvarc/intvarc_048.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_049.md",
+        "path": "intvarc/intvarc_049.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_050.md",
+        "path": "intvarc/intvarc_050.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_051.md",
+        "path": "intvarc/intvarc_051.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_052.md",
+        "path": "intvarc/intvarc_052.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_053.md",
+        "path": "intvarc/intvarc_053.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_054.md",
+        "path": "intvarc/intvarc_054.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_055.md",
+        "path": "intvarc/intvarc_055.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_056.md",
+        "path": "intvarc/intvarc_056.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_057.md",
+        "path": "intvarc/intvarc_057.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_058.md",
+        "path": "intvarc/intvarc_058.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_059.md",
+        "path": "intvarc/intvarc_059.md",
+        "title": "intvarc_059",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_060.md",
+        "path": "intvarc/intvarc_060.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_061.md",
+        "path": "intvarc/intvarc_061.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_062.md",
+        "path": "intvarc/intvarc_062.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_063.md",
+        "path": "intvarc/intvarc_063.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_064.md",
+        "path": "intvarc/intvarc_064.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_065.md",
+        "path": "intvarc/intvarc_065.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_066.md",
+        "path": "intvarc/intvarc_066.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_067.md",
+        "path": "intvarc/intvarc_067.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_068.md",
+        "path": "intvarc/intvarc_068.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_069.md",
+        "path": "intvarc/intvarc_069.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_070.md",
+        "path": "intvarc/intvarc_070.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_071.md",
+        "path": "intvarc/intvarc_071.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_072.md",
+        "path": "intvarc/intvarc_072.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_073.md",
+        "path": "intvarc/intvarc_073.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_074.md",
+        "path": "intvarc/intvarc_074.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_075.md",
+        "path": "intvarc/intvarc_075.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_076.md",
+        "path": "intvarc/intvarc_076.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_077.md",
+        "path": "intvarc/intvarc_077.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_078.md",
+        "path": "intvarc/intvarc_078.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_079.md",
+        "path": "intvarc/intvarc_079.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_080.md",
+        "path": "intvarc/intvarc_080.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_081.md",
+        "path": "intvarc/intvarc_081.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_082.md",
+        "path": "intvarc/intvarc_082.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_083.md",
+        "path": "intvarc/intvarc_083.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_084.md",
+        "path": "intvarc/intvarc_084.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_085.md",
+        "path": "intvarc/intvarc_085.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_086.md",
+        "path": "intvarc/intvarc_086.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_087.md",
+        "path": "intvarc/intvarc_087.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_088.md",
+        "path": "intvarc/intvarc_088.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_089.md",
+        "path": "intvarc/intvarc_089.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_090.md",
+        "path": "intvarc/intvarc_090.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_091.md",
+        "path": "intvarc/intvarc_091.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_092.md",
+        "path": "intvarc/intvarc_092.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_093.md",
+        "path": "intvarc/intvarc_093.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_094.md",
+        "path": "intvarc/intvarc_094.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_095.md",
+        "path": "intvarc/intvarc_095.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_096.md",
+        "path": "intvarc/intvarc_096.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_097.md",
+        "path": "intvarc/intvarc_097.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_098.md",
+        "path": "intvarc/intvarc_098.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_099.md",
+        "path": "intvarc/intvarc_099.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_100.md",
+        "path": "intvarc/intvarc_100.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_101.md",
+        "path": "intvarc/intvarc_101.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_102.md",
+        "path": "intvarc/intvarc_102.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_103.md",
+        "path": "intvarc/intvarc_103.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_104.md",
+        "path": "intvarc/intvarc_104.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_105.md",
+        "path": "intvarc/intvarc_105.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_106.md",
+        "path": "intvarc/intvarc_106.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_107.md",
+        "path": "intvarc/intvarc_107.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_108.md",
+        "path": "intvarc/intvarc_108.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_109.md",
+        "path": "intvarc/intvarc_109.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_110.md",
+        "path": "intvarc/intvarc_110.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_111.md",
+        "path": "intvarc/intvarc_111.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_112.md",
+        "path": "intvarc/intvarc_112.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_113.md",
+        "path": "intvarc/intvarc_113.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_114.md",
+        "path": "intvarc/intvarc_114.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_115.md",
+        "path": "intvarc/intvarc_115.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_116.md",
+        "path": "intvarc/intvarc_116.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_117.md",
+        "path": "intvarc/intvarc_117.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_118.md",
+        "path": "intvarc/intvarc_118.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_119.md",
+        "path": "intvarc/intvarc_119.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_120.md",
+        "path": "intvarc/intvarc_120.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_121.md",
+        "path": "intvarc/intvarc_121.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_122.md",
+        "path": "intvarc/intvarc_122.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_123.md",
+        "path": "intvarc/intvarc_123.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_124.md",
+        "path": "intvarc/intvarc_124.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_125.md",
+        "path": "intvarc/intvarc_125.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_126.md",
+        "path": "intvarc/intvarc_126.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_127.md",
+        "path": "intvarc/intvarc_127.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_128.md",
+        "path": "intvarc/intvarc_128.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_129.md",
+        "path": "intvarc/intvarc_129.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_130.md",
+        "path": "intvarc/intvarc_130.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_131.md",
+        "path": "intvarc/intvarc_131.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_132.md",
+        "path": "intvarc/intvarc_132.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_133.md",
+        "path": "intvarc/intvarc_133.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_134.md",
+        "path": "intvarc/intvarc_134.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_135.md",
+        "path": "intvarc/intvarc_135.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_136.md",
+        "path": "intvarc/intvarc_136.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_137.md",
+        "path": "intvarc/intvarc_137.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_138.md",
+        "path": "intvarc/intvarc_138.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_139.md",
+        "path": "intvarc/intvarc_139.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_140.md",
+        "path": "intvarc/intvarc_140.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_141.md",
+        "path": "intvarc/intvarc_141.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_142.md",
+        "path": "intvarc/intvarc_142.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_143.md",
+        "path": "intvarc/intvarc_143.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_144.md",
+        "path": "intvarc/intvarc_144.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_145.md",
+        "path": "intvarc/intvarc_145.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_146.md",
+        "path": "intvarc/intvarc_146.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_147.md",
+        "path": "intvarc/intvarc_147.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_148.md",
+        "path": "intvarc/intvarc_148.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_149.md",
+        "path": "intvarc/intvarc_149.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_150.md",
+        "path": "intvarc/intvarc_150.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_151.md",
+        "path": "intvarc/intvarc_151.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_152.md",
+        "path": "intvarc/intvarc_152.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_153.md",
+        "path": "intvarc/intvarc_153.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_154.md",
+        "path": "intvarc/intvarc_154.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_155.md",
+        "path": "intvarc/intvarc_155.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_156.md",
+        "path": "intvarc/intvarc_156.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_157.md",
+        "path": "intvarc/intvarc_157.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_158.md",
+        "path": "intvarc/intvarc_158.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_159.md",
+        "path": "intvarc/intvarc_159.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_160.md",
+        "path": "intvarc/intvarc_160.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_161.md",
+        "path": "intvarc/intvarc_161.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_162.md",
+        "path": "intvarc/intvarc_162.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_163.md",
+        "path": "intvarc/intvarc_163.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_164.md",
+        "path": "intvarc/intvarc_164.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_165.md",
+        "path": "intvarc/intvarc_165.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_166.md",
+        "path": "intvarc/intvarc_166.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_167.md",
+        "path": "intvarc/intvarc_167.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_168.md",
+        "path": "intvarc/intvarc_168.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_169.md",
+        "path": "intvarc/intvarc_169.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_170.md",
+        "path": "intvarc/intvarc_170.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_171.md",
+        "path": "intvarc/intvarc_171.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_172.md",
+        "path": "intvarc/intvarc_172.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_173.md",
+        "path": "intvarc/intvarc_173.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_174.md",
+        "path": "intvarc/intvarc_174.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_175.md",
+        "path": "intvarc/intvarc_175.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_176.md",
+        "path": "intvarc/intvarc_176.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_177.md",
+        "path": "intvarc/intvarc_177.md",
+        "title": "Inside Doll",
+        "type": "file"
+      },
+      {
+        "name": "intvarc_178.md",
+        "path": "intvarc/intvarc_178.md",
+        "title": "Inside Doll",
+        "type": "file"
+      }
+    ],
+    "n1": [],
+    "n2": [],
+    "n5": [],
+    "ne": [],
+    "story01": [
+      {
+        "name": "01",
+        "path": "story01/01",
+        "title": "01",
+        "type": "directory",
+        "count": 2,
+        "children": [
+          {
+            "name": "story_0101.md",
+            "path": "story01/01/story_0101.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0102.md",
+            "path": "story01/01/story_0102.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "02",
+        "path": "story01/02",
+        "title": "02",
+        "type": "directory",
+        "count": 3,
+        "children": [
+          {
+            "name": "story_0201.md",
+            "path": "story01/02/story_0201.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0202.md",
+            "path": "story01/02/story_0202.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0203.md",
+            "path": "story01/02/story_0203.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "03",
+        "path": "story01/03",
+        "title": "03",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_0301.md",
+            "path": "story01/03/story_0301.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "04",
+        "path": "story01/04",
+        "title": "04",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_0401.md",
+            "path": "story01/04/story_0401.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "05",
+        "path": "story01/05",
+        "title": "05",
+        "type": "directory",
+        "count": 23,
+        "children": [
+          {
+            "name": "story_0501.md",
+            "path": "story01/05/story_0501.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0502.md",
+            "path": "story01/05/story_0502.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0503.md",
+            "path": "story01/05/story_0503.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0504.md",
+            "path": "story01/05/story_0504.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0505.md",
+            "path": "story01/05/story_0505.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0506.md",
+            "path": "story01/05/story_0506.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0507.md",
+            "path": "story01/05/story_0507.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0508.md",
+            "path": "story01/05/story_0508.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0509.md",
+            "path": "story01/05/story_0509.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0510.md",
+            "path": "story01/05/story_0510.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0511.md",
+            "path": "story01/05/story_0511.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0512.md",
+            "path": "story01/05/story_0512.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0513.md",
+            "path": "story01/05/story_0513.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0514.md",
+            "path": "story01/05/story_0514.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0515.md",
+            "path": "story01/05/story_0515.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0516.md",
+            "path": "story01/05/story_0516.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0517.md",
+            "path": "story01/05/story_0517.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0518.md",
+            "path": "story01/05/story_0518.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0519.md",
+            "path": "story01/05/story_0519.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0520.md",
+            "path": "story01/05/story_0520.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0521.md",
+            "path": "story01/05/story_0521.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0522.md",
+            "path": "story01/05/story_0522.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0523.md",
+            "path": "story01/05/story_0523.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "06",
+        "path": "story01/06",
+        "title": "06",
+        "type": "directory",
+        "count": 2,
+        "children": [
+          {
+            "name": "story_0601.md",
+            "path": "story01/06/story_0601.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0602.md",
+            "path": "story01/06/story_0602.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "07",
+        "path": "story01/07",
+        "title": "07",
+        "type": "directory",
+        "count": 14,
+        "children": [
+          {
+            "name": "story_0701.md",
+            "path": "story01/07/story_0701.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0702.md",
+            "path": "story01/07/story_0702.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0703.md",
+            "path": "story01/07/story_0703.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0704.md",
+            "path": "story01/07/story_0704.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0705.md",
+            "path": "story01/07/story_0705.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0706.md",
+            "path": "story01/07/story_0706.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0707.md",
+            "path": "story01/07/story_0707.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0708.md",
+            "path": "story01/07/story_0708.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0709.md",
+            "path": "story01/07/story_0709.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0710.md",
+            "path": "story01/07/story_0710.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0711.md",
+            "path": "story01/07/story_0711.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0712.md",
+            "path": "story01/07/story_0712.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0713.md",
+            "path": "story01/07/story_0713.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0714.md",
+            "path": "story01/07/story_0714.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "08",
+        "path": "story01/08",
+        "title": "08",
+        "type": "directory",
+        "count": 4,
+        "children": [
+          {
+            "name": "story_0801.md",
+            "path": "story01/08/story_0801.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0802.md",
+            "path": "story01/08/story_0802.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0803.md",
+            "path": "story01/08/story_0803.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0804.md",
+            "path": "story01/08/story_0804.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "09",
+        "path": "story01/09",
+        "title": "09",
+        "type": "directory",
+        "count": 3,
+        "children": [
+          {
+            "name": "story_0901.md",
+            "path": "story01/09/story_0901.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0902.md",
+            "path": "story01/09/story_0902.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0903.md",
+            "path": "story01/09/story_0903.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0a",
+        "path": "story01/0a",
+        "title": "0a",
+        "type": "directory",
+        "count": 51,
+        "children": [
+          {
+            "name": "story_0a01.md",
+            "path": "story01/0a/story_0a01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a02.md",
+            "path": "story01/0a/story_0a02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a03.md",
+            "path": "story01/0a/story_0a03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a04.md",
+            "path": "story01/0a/story_0a04.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a05.md",
+            "path": "story01/0a/story_0a05.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a06.md",
+            "path": "story01/0a/story_0a06.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a10.md",
+            "path": "story01/0a/story_0a10.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a11.md",
+            "path": "story01/0a/story_0a11.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a12.md",
+            "path": "story01/0a/story_0a12.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a13.md",
+            "path": "story01/0a/story_0a13.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a14.md",
+            "path": "story01/0a/story_0a14.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a15.md",
+            "path": "story01/0a/story_0a15.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a16.md",
+            "path": "story01/0a/story_0a16.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a20.md",
+            "path": "story01/0a/story_0a20.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a21.md",
+            "path": "story01/0a/story_0a21.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a22.md",
+            "path": "story01/0a/story_0a22.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a23.md",
+            "path": "story01/0a/story_0a23.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a24.md",
+            "path": "story01/0a/story_0a24.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a25.md",
+            "path": "story01/0a/story_0a25.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a26.md",
+            "path": "story01/0a/story_0a26.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a27.md",
+            "path": "story01/0a/story_0a27.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a30.md",
+            "path": "story01/0a/story_0a30.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a31.md",
+            "path": "story01/0a/story_0a31.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a32.md",
+            "path": "story01/0a/story_0a32.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a33.md",
+            "path": "story01/0a/story_0a33.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a34.md",
+            "path": "story01/0a/story_0a34.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a40.md",
+            "path": "story01/0a/story_0a40.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a41.md",
+            "path": "story01/0a/story_0a41.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a42.md",
+            "path": "story01/0a/story_0a42.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a43.md",
+            "path": "story01/0a/story_0a43.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a44.md",
+            "path": "story01/0a/story_0a44.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a45.md",
+            "path": "story01/0a/story_0a45.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a46.md",
+            "path": "story01/0a/story_0a46.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a50.md",
+            "path": "story01/0a/story_0a50.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a51.md",
+            "path": "story01/0a/story_0a51.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a52.md",
+            "path": "story01/0a/story_0a52.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a53.md",
+            "path": "story01/0a/story_0a53.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a54.md",
+            "path": "story01/0a/story_0a54.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a55.md",
+            "path": "story01/0a/story_0a55.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a56.md",
+            "path": "story01/0a/story_0a56.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a57.md",
+            "path": "story01/0a/story_0a57.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a58.md",
+            "path": "story01/0a/story_0a58.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a60.md",
+            "path": "story01/0a/story_0a60.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a61.md",
+            "path": "story01/0a/story_0a61.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a62.md",
+            "path": "story01/0a/story_0a62.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a63.md",
+            "path": "story01/0a/story_0a63.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a65.md",
+            "path": "story01/0a/story_0a65.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a66.md",
+            "path": "story01/0a/story_0a66.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a67.md",
+            "path": "story01/0a/story_0a67.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a68.md",
+            "path": "story01/0a/story_0a68.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0a69.md",
+            "path": "story01/0a/story_0a69.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0b",
+        "path": "story01/0b",
+        "title": "0b",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_0b01.md",
+            "path": "story01/0b/story_0b01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0c",
+        "path": "story01/0c",
+        "title": "0c",
+        "type": "directory",
+        "count": 5,
+        "children": [
+          {
+            "name": "story_0c01.md",
+            "path": "story01/0c/story_0c01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0c02.md",
+            "path": "story01/0c/story_0c02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0c03.md",
+            "path": "story01/0c/story_0c03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0c04.md",
+            "path": "story01/0c/story_0c04.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0c05.md",
+            "path": "story01/0c/story_0c05.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0d",
+        "path": "story01/0d",
+        "title": "0d",
+        "type": "directory",
+        "count": 4,
+        "children": [
+          {
+            "name": "story_0d01.md",
+            "path": "story01/0d/story_0d01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0d02.md",
+            "path": "story01/0d/story_0d02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0d03.md",
+            "path": "story01/0d/story_0d03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0d04.md",
+            "path": "story01/0d/story_0d04.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0e",
+        "path": "story01/0e",
+        "title": "0e",
+        "type": "directory",
+        "count": 3,
+        "children": [
+          {
+            "name": "story_0e01.md",
+            "path": "story01/0e/story_0e01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0e02.md",
+            "path": "story01/0e/story_0e02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0e03.md",
+            "path": "story01/0e/story_0e03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0f",
+        "path": "story01/0f",
+        "title": "0f",
+        "type": "directory",
+        "count": 10,
+        "children": [
+          {
+            "name": "story_0f01.md",
+            "path": "story01/0f/story_0f01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0f02.md",
+            "path": "story01/0f/story_0f02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0f03.md",
+            "path": "story01/0f/story_0f03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0f04.md",
+            "path": "story01/0f/story_0f04.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0f05.md",
+            "path": "story01/0f/story_0f05.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0f06.md",
+            "path": "story01/0f/story_0f06.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0f07.md",
+            "path": "story01/0f/story_0f07.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0f08.md",
+            "path": "story01/0f/story_0f08.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0f09.md",
+            "path": "story01/0f/story_0f09.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0f10.md",
+            "path": "story01/0f/story_0f10.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0h",
+        "path": "story01/0h",
+        "title": "0h",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_0h01.md",
+            "path": "story01/0h/story_0h01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0i",
+        "path": "story01/0i",
+        "title": "0i",
+        "type": "directory",
+        "count": 5,
+        "children": [
+          {
+            "name": "story_0i01.md",
+            "path": "story01/0i/story_0i01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0i02.md",
+            "path": "story01/0i/story_0i02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0i11.md",
+            "path": "story01/0i/story_0i11.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0i12.md",
+            "path": "story01/0i/story_0i12.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0i13.md",
+            "path": "story01/0i/story_0i13.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0k",
+        "path": "story01/0k",
+        "title": "0k",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_0k01.md",
+            "path": "story01/0k/story_0k01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0l",
+        "path": "story01/0l",
+        "title": "0l",
+        "type": "directory",
+        "count": 3,
+        "children": [
+          {
+            "name": "story_0l01.md",
+            "path": "story01/0l/story_0l01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0l02.md",
+            "path": "story01/0l/story_0l02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0l03.md",
+            "path": "story01/0l/story_0l03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0p",
+        "path": "story01/0p",
+        "title": "0p",
+        "type": "directory",
+        "count": 2,
+        "children": [
+          {
+            "name": "story_0p01.md",
+            "path": "story01/0p/story_0p01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0p02.md",
+            "path": "story01/0p/story_0p02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0r",
+        "path": "story01/0r",
+        "title": "0r",
+        "type": "directory",
+        "count": 3,
+        "children": [
+          {
+            "name": "story_0r01.md",
+            "path": "story01/0r/story_0r01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0r02.md",
+            "path": "story01/0r/story_0r02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0r03.md",
+            "path": "story01/0r/story_0r03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0s",
+        "path": "story01/0s",
+        "title": "0s",
+        "type": "directory",
+        "count": 8,
+        "children": [
+          {
+            "name": "story_0s01.md",
+            "path": "story01/0s/story_0s01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0s02.md",
+            "path": "story01/0s/story_0s02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0s03.md",
+            "path": "story01/0s/story_0s03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0s04.md",
+            "path": "story01/0s/story_0s04.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0s05.md",
+            "path": "story01/0s/story_0s05.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0s06.md",
+            "path": "story01/0s/story_0s06.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0s07.md",
+            "path": "story01/0s/story_0s07.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0s08.md",
+            "path": "story01/0s/story_0s08.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0v",
+        "path": "story01/0v",
+        "title": "0v",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_0v01.md",
+            "path": "story01/0v/story_0v01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0w",
+        "path": "story01/0w",
+        "title": "0w",
+        "type": "directory",
+        "count": 3,
+        "children": [
+          {
+            "name": "story_0w01.md",
+            "path": "story01/0w/story_0w01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0w02.md",
+            "path": "story01/0w/story_0w02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0w03.md",
+            "path": "story01/0w/story_0w03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0x",
+        "path": "story01/0x",
+        "title": "0x",
+        "type": "directory",
+        "count": 7,
+        "children": [
+          {
+            "name": "story_0x01.md",
+            "path": "story01/0x/story_0x01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0x02.md",
+            "path": "story01/0x/story_0x02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0x03.md",
+            "path": "story01/0x/story_0x03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0x04.md",
+            "path": "story01/0x/story_0x04.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0x05.md",
+            "path": "story01/0x/story_0x05.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0x06.md",
+            "path": "story01/0x/story_0x06.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0x07.md",
+            "path": "story01/0x/story_0x07.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0y",
+        "path": "story01/0y",
+        "title": "0y",
+        "type": "directory",
+        "count": 5,
+        "children": [
+          {
+            "name": "story_0y01.md",
+            "path": "story01/0y/story_0y01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0y02.md",
+            "path": "story01/0y/story_0y02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0y03.md",
+            "path": "story01/0y/story_0y03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0y04.md",
+            "path": "story01/0y/story_0y04.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0y05.md",
+            "path": "story01/0y/story_0y05.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "0z",
+        "path": "story01/0z",
+        "title": "0z",
+        "type": "directory",
+        "count": 3,
+        "children": [
+          {
+            "name": "story_0z01.md",
+            "path": "story01/0z/story_0z01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0z02.md",
+            "path": "story01/0z/story_0z02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0z03.md",
+            "path": "story01/0z/story_0z03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "10",
+        "path": "story01/10",
+        "title": "10",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_1001.md",
+            "path": "story01/10/story_1001.md",
+            "title": "ショートパンツの苦悩(一話完結)",
+            "type": "file"
+          }
+        ]
+      }
+    ],
+    "storyg1": [
+      {
+        "name": "0g",
+        "path": "storyg1/0g",
+        "title": "0g",
+        "type": "directory",
+        "count": 19,
+        "children": [
+          {
+            "name": "story_0g00.md",
+            "path": "storyg1/0g/story_0g00.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g01.md",
+            "path": "storyg1/0g/story_0g01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g02.md",
+            "path": "storyg1/0g/story_0g02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g03.md",
+            "path": "storyg1/0g/story_0g03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g04.md",
+            "path": "storyg1/0g/story_0g04.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g05.md",
+            "path": "storyg1/0g/story_0g05.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g06.md",
+            "path": "storyg1/0g/story_0g06.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g0i.md",
+            "path": "storyg1/0g/story_0g0i.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g11.md",
+            "path": "storyg1/0g/story_0g11.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g12.md",
+            "path": "storyg1/0g/story_0g12.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g13.md",
+            "path": "storyg1/0g/story_0g13.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g14.md",
+            "path": "storyg1/0g/story_0g14.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g15.md",
+            "path": "storyg1/0g/story_0g15.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g16.md",
+            "path": "storyg1/0g/story_0g16.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g17.md",
+            "path": "storyg1/0g/story_0g17.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g21.md",
+            "path": "storyg1/0g/story_0g21.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g22.md",
+            "path": "storyg1/0g/story_0g22.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_0g31.md",
+            "path": "storyg1/0g/story_0g31.md",
+            "title": "定例仮面舞踏会（前編）",
+            "type": "file"
+          },
+          {
+            "name": "story_0g32.md",
+            "path": "storyg1/0g/story_0g32.md",
+            "title": "定例仮面舞踏会（後編）",
+            "type": "file"
+          }
+        ]
+      }
+    ],
+    "storyh1": [
+      {
+        "name": "h0",
+        "path": "storyh1/h0",
+        "title": "h0",
+        "type": "directory",
+        "count": 11,
+        "children": [
+          {
+            "name": "story_h001.md",
+            "path": "storyh1/h0/story_h001.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h002.md",
+            "path": "storyh1/h0/story_h002.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h003.md",
+            "path": "storyh1/h0/story_h003.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h004.md",
+            "path": "storyh1/h0/story_h004.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h005.md",
+            "path": "storyh1/h0/story_h005.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h006.md",
+            "path": "storyh1/h0/story_h006.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h007.md",
+            "path": "storyh1/h0/story_h007.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h008.md",
+            "path": "storyh1/h0/story_h008.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h009.md",
+            "path": "storyh1/h0/story_h009.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h010.md",
+            "path": "storyh1/h0/story_h010.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_h011.md",
+            "path": "storyh1/h0/story_h011.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      }
+    ],
+    "storyn1": [
+      {
+        "name": "n1",
+        "path": "storyn1/n1",
+        "title": "n1",
+        "type": "directory",
+        "count": 9,
+        "children": [
+          {
+            "name": "story_n101.md",
+            "path": "storyn1/n1/story_n101.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n102.md",
+            "path": "storyn1/n1/story_n102.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n103.md",
+            "path": "storyn1/n1/story_n103.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n104.md",
+            "path": "storyn1/n1/story_n104.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n105.md",
+            "path": "storyn1/n1/story_n105.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n106.md",
+            "path": "storyn1/n1/story_n106.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n107.md",
+            "path": "storyn1/n1/story_n107.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n108.md",
+            "path": "storyn1/n1/story_n108.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n109.md",
+            "path": "storyn1/n1/story_n109.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "n2",
+        "path": "storyn1/n2",
+        "title": "n2",
+        "type": "directory",
+        "count": 6,
+        "children": [
+          {
+            "name": "story_n201.md",
+            "path": "storyn1/n2/story_n201.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n202.md",
+            "path": "storyn1/n2/story_n202.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n203.md",
+            "path": "storyn1/n2/story_n203.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n204.md",
+            "path": "storyn1/n2/story_n204.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n205.md",
+            "path": "storyn1/n2/story_n205.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n206.md",
+            "path": "storyn1/n2/story_n206.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "n3",
+        "path": "storyn1/n3",
+        "title": "n3",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_n301.md",
+            "path": "storyn1/n3/story_n301.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "n4",
+        "path": "storyn1/n4",
+        "title": "n4",
+        "type": "directory",
+        "count": 6,
+        "children": [
+          {
+            "name": "story_n401.md",
+            "path": "storyn1/n4/story_n401.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n402.md",
+            "path": "storyn1/n4/story_n402.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n403.md",
+            "path": "storyn1/n4/story_n403.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n404.md",
+            "path": "storyn1/n4/story_n404.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n405.md",
+            "path": "storyn1/n4/story_n405.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n406.md",
+            "path": "storyn1/n4/story_n406.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "n5",
+        "path": "storyn1/n5",
+        "title": "n5",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_n501.md",
+            "path": "storyn1/n5/story_n501.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "n6",
+        "path": "storyn1/n6",
+        "title": "n6",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_n601.md",
+            "path": "storyn1/n6/story_n601.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "n7",
+        "path": "storyn1/n7",
+        "title": "n7",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_n701.md",
+            "path": "storyn1/n7/story_n701.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "n8",
+        "path": "storyn1/n8",
+        "title": "n8",
+        "type": "directory",
+        "count": 15,
+        "children": [
+          {
+            "name": "story_n801.md",
+            "path": "storyn1/n8/story_n801.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n802.md",
+            "path": "storyn1/n8/story_n802.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n803.md",
+            "path": "storyn1/n8/story_n803.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n804.md",
+            "path": "storyn1/n8/story_n804.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n805.md",
+            "path": "storyn1/n8/story_n805.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n806.md",
+            "path": "storyn1/n8/story_n806.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n807.md",
+            "path": "storyn1/n8/story_n807.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n808.md",
+            "path": "storyn1/n8/story_n808.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n809.md",
+            "path": "storyn1/n8/story_n809.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n810.md",
+            "path": "storyn1/n8/story_n810.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n811.md",
+            "path": "storyn1/n8/story_n811.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n812.md",
+            "path": "storyn1/n8/story_n812.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n813.md",
+            "path": "storyn1/n8/story_n813.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n814.md",
+            "path": "storyn1/n8/story_n814.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n815.md",
+            "path": "storyn1/n8/story_n815.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "n9",
+        "path": "storyn1/n9",
+        "title": "n9",
+        "type": "directory",
+        "count": 2,
+        "children": [
+          {
+            "name": "story_n901.md",
+            "path": "storyn1/n9/story_n901.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_n902.md",
+            "path": "storyn1/n9/story_n902.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "na",
+        "path": "storyn1/na",
+        "title": "na",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_na01.md",
+            "path": "storyn1/na/story_na01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "nb",
+        "path": "storyn1/nb",
+        "title": "nb",
+        "type": "directory",
+        "count": 1,
+        "children": [
+          {
+            "name": "story_nb01.md",
+            "path": "storyn1/nb/story_nb01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "nc",
+        "path": "storyn1/nc",
+        "title": "nc",
+        "type": "directory",
+        "count": 2,
+        "children": [
+          {
+            "name": "story_nc01.md",
+            "path": "storyn1/nc/story_nc01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_nc02.md",
+            "path": "storyn1/nc/story_nc02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "nd",
+        "path": "storyn1/nd",
+        "title": "nd",
+        "type": "directory",
+        "count": 3,
+        "children": [
+          {
+            "name": "story_nd01.md",
+            "path": "storyn1/nd/story_nd01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_nd02.md",
+            "path": "storyn1/nd/story_nd02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_nd03.md",
+            "path": "storyn1/nd/story_nd03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "ne",
+        "path": "storyn1/ne",
+        "title": "ne",
+        "type": "directory",
+        "count": 12,
+        "children": [
+          {
+            "name": "story_ne01.md",
+            "path": "storyn1/ne/story_ne01.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne02.md",
+            "path": "storyn1/ne/story_ne02.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne03.md",
+            "path": "storyn1/ne/story_ne03.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne04.md",
+            "path": "storyn1/ne/story_ne04.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne05.md",
+            "path": "storyn1/ne/story_ne05.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne06.md",
+            "path": "storyn1/ne/story_ne06.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne07.md",
+            "path": "storyn1/ne/story_ne07.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne08.md",
+            "path": "storyn1/ne/story_ne08.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne09.md",
+            "path": "storyn1/ne/story_ne09.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne10.md",
+            "path": "storyn1/ne/story_ne10.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne11.md",
+            "path": "storyn1/ne/story_ne11.md",
+            "title": "Inside Doll",
+            "type": "file"
+          },
+          {
+            "name": "story_ne12.md",
+            "path": "storyn1/ne/story_ne12.md",
+            "title": "Inside Doll",
+            "type": "file"
+          }
+        ]
+      }
+    ],
+    "theinterviews_index02html": []
+  }
+}

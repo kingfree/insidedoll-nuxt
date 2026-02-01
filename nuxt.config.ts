@@ -20,7 +20,8 @@ export default defineNuxtConfig({
       toc: {
         depth: 3,
         searchDepth: 3
-      }
+      },
+      remarkPlugins: ['remark-breaks']
     }
   }
 })
